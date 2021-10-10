@@ -6,6 +6,7 @@ A Persian vocabulary trainer
 | --------------- | ----- | --------------------- |
 | judit-editor    | app   | Notepad-like editor   |
 | judit-player    | app   | Record audio files    |
+| nabu-ui-http    | app   | Vocabulary backend    |
 | nabu-ui-swing   | app   | Vocabulary trainer    |
 | nabu-voc-export | app   | Export the vocabulary |
 | tuppu-batch     | app   | Plotter batch process |
