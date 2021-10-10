@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>ch.unizh.ori.nabu</groupId>
+	<artifactId>nabu-all</artifactId>
+	<name>nabu-all</name>
+	<version>1.0</version>
+    <packaging>pom</packaging>
+
+	<modules>
+		<module>nabu-central</module>
+		<module>nabu-core</module>
+		<module>nabu-db</module>
+		<module>nabu-voc</module>
+		<module>nabu-voc-export</module>
+		<module>nabu-text</module>
+		<module>nabu-common</module>
+		<module>nabu-ui-swing</module>
+		<module>nabu-ui-http</module>
+		<module>tuppu-batch</module>
+		<module>tuppu-sign</module>
+		<module>tuppu-ui-swing</module>
+		<module>judit-editor</module>
+		<module>judit-player</module>
+	</modules>
+
+</project>

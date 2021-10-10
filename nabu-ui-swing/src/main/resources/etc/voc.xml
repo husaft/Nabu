@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+   <!-- <script name="Diakrit" title="Diakrit" id="dia" example="bla" defaultFont="Palatino"> -->
+	<script name="Diakrit" title="Diakrit" id="dia" example="bla" defaultFont="Arial Unicode MS">
+	</script>
+	<script name="ar" title="Arabisch" id="ar" example="bla" defaultFont="default">
+	</script>
+
+    <vocabulary id="hi.thomann1">
+        <name>Persischglossar</name>
+        <description>Persisch-Deutsch, Deutsch-Perisch</description>
+        <mapping>
+	
+	
+            <col id="pe" name="Persisch" script="ar"/>	
+	
+            <col id="le" name="Lektion" script="de"/>
+	
+            <col id="tr" name="Transkription" script="dia"/>
+	
+            <col id="de" name="Deutsch" script="de"/>
+	
+            <snd id="hi.snd" ad="pe">
+                <voice type="file" name="1.wav" prefix="snd/"/>
+            </snd>
+
+        </mapping>
+	<src src="persisch1.txt" enc="UTF-8"
+		label="L1,Z1,L2,Z2,L3,Z3,L4,Z4,L5,Z5,L6,Z6,L7,Z7,L8,Z8,L9,Z9,L10,Z10,L11,Z11,L12,Z12,L13,Z13,L14,Z14,L15,Z15,L16,Z16,L17,Z17,L18,Z18,L19,Z19,L20,Z20,L21,Z21,L22,Z22,L23,Z23,L24,Z24"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="pe=tr=?de"/>
+	    <mode id="1" short="de=?pe"/>
+	    <mode id="2" short="pe=?tr"/>
+	
+	</modes>
+
+    </vocabulary>
+</items>
+
