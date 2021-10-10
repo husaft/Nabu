@@ -9,6 +9,7 @@ A Persian vocabulary trainer
 | nabu-voc-export | app   | Export the vocabulary |
 | tuppu-batch     | app   | Plotter batch process |
 | tuppu-sign      | app   | Hieroglyph viewer     |
+| nabu-core       | lib   | Core infrastructure   |
 | nabu-db         | lib   | Load from database    |
 | nabu-text       | lib   | Scripts & texts       |
 | nabu-voc        | lib   | Core of vocabulary    |
