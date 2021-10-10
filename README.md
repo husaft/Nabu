@@ -12,6 +12,7 @@ A Persian vocabulary trainer
 | tuppu-sign      | app   | Hieroglyph viewer     |
 | tuppu-ui-swing  | app   | Text plotter viewer   |
 | nabu-central    | lib   | Central code for UI   |
+| nabu-common     | lib   | Experimental code     |
 | nabu-core       | lib   | Core infrastructure   |
 | nabu-db         | lib   | Load from database    |
 | nabu-text       | lib   | Scripts & texts       |
