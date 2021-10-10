@@ -2,10 +2,11 @@
 A Persian vocabulary trainer
 
 ## Overview
-| Project       | Description         |
-| ------------- | ------------------- |
-| judit-editor  | Notepad-like editor |
-| judit-player  | Record audio files  |
+| Project       | Type  | Description         |
+| ------------- | ----- | ------------------- |
+| judit-editor  | app   | Notepad-like editor |
+| judit-player  | app   | Record audio files  |
+| nabu-db       | lib   | Load from database  |
 
 ## Build
 mvn clean package
