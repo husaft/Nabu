@@ -1,0 +1,1784 @@
+آبی	L.1	/ābi/	blau	L1_0001.wav
+اسب	L.1	/asb/	Pferd	L1_0003.wav
+است	L.1	/ast/	ist	L1_0004.wav
+آن	L.1	/ān/	jene, jener, jenes	L1_0005.wav
+انار	L.1	/anār/	Granatapfel	L1_0006.wav
+این	L.1	/in/	diese, dieser, dieses	L1_0007.wav
+با	L.1	/bā/	mit	L1_0008.wav
+بابا	L.1	/bābā/	Vater, Papa	L1_0009.wav
+ببر	L.1	/babr/	Tiger	L1_0010.wav
+تاب	L.1	/tāb/	Schaukel	L1_0011.wav
+تبر	L.1	/tabar/	Axt	L1_0012.wav
+سیب	L.1	/sib/	Apfel	L1_0014.wav
+سیر	L.1	/sir/	satt	L1_0015.wav
+سینی	L.1	/sini/	Tablett	L1_0016.wav
+کیست	L.1	/kist/ 	wer ist?	L1_0017.wav
+نارس	L.1	/nāras/	unreif	L1_0018.wav
+نه	L.1	/na/	nein	L1_0019.wav
+نیست	L.1	/nist/	ist nicht	L1_0020.wav
+
+آب	G.1	/āb/	Wasser	G1_0001.wav
+آرا	G.1	/ārā/	Stimmen	G1_0002.wav
+آری	G.1	/āri/	ja	G1_0004.wav
+اشاره	G.1	/ešāre/	Hinweis	G1_0005.wav
+الفبا	G.1	/alefbā/	Alphabet	G1_0006.wav
+ایران	G.1	/irān/	Iran	G1_0007.wav
+اینک	G.1	/inak/	nun	G1_0008.wav
+با	G.1	/bā/	mit	G1_0009.wav
+باب	G.1	/bāb/	Kapitel, Thema	G1_0010.wav
+بار	G.1	/bār/	Last	G1_0011.wav
+باری	G.1	/bāri/	Transporter	G1_0012.wav
+باک	G.1	/bāk/	Angst	G1_0013.wav
+بَر	G.1	/bar/	auf	G1_0014.wav
+بس	G.1	/bas/	genug	G1_0015.wav
+بَست	G.1	/bast/	Bügel	G1_0016.wav
+بی	G.1	/bi/	ohne	G1_0017.wav
+بیست	G.1	/bist/	zwanzig	G1_0019.wav
+تا	G.1	/tā/	bis	G1_0020.wav
+تاک	G.1	/tāk/	Weinrebe	G1_0021.wav
+تب	G.1	/tab/	Fieber	G1_0022.wav
+تر	G.1	/tar/	nass	G1_0023.wav
+ترس	G.1	/tars/	Angst	G1_0024.wav
+تمرین	G.1	/tamrin/	Übung	G1_0025.wav
+تن	G.1	/tan/	Körper	G1_0026.wav
+تیر	G.1	/tir/	Pfeil, Kugel	G1_0027.wav
+دستور زبان	G.1	/dastur-e zabān/	Grammatik	G1_0028.wav
+راست	G.1	/rāst/	richtig, rechts	G1_0029.wav
+ران	G.1	/rān/	Schenkel	G1_0030.wav
+سار	G.1	/sār/	Star	G1_0031.wav
+سبب	G.1	/sabab/	Grund	G1_0032.wav
+سَر	G.1	/sar/	Kopf, an	G1_0033.wav
+ضمیر اشاره	G.1	/zamir-e ešāre/	Demonstrativpronomen	G1_0034.wav
+کار	G.1	/kār/	Arbeit	G1_0035.wav
+بیکار	G.1	/bikār/	arbeitslos	G1_0036.wav
+کر	G.1	/kar/	taub	G1_0037.wav
+کَسی	G.1	/kasi/	jemand	G1_0038.wav
+کلمه	G.1	/kalame/	Wort	G1_0039.wav
+مثال	G.1	/mesāl/	Beispiel	G1_0040.wav
+نان	G.1	/nān/	Brot	G1_0041.wav
+نارس	G.1	/nāras/	unreif	G1_0042.wav
+نر	G.1	/nar/	männlich	G1_0043.wav
+نیک	G.1	/nik/	gut	G1_0044.wav
+نیکی	G.1	/niki/	Güte	G1_0045.wav
+واکه	G.1	/vāke/	Vokal	G1_0046.wav
+همخوان	G.1	/hamḫān/	Konsonant	G1_0047.wav
+آسیا	Z.1	/āsiyā/	Asien	Z1_0001.wav
+آسیایی	Z.1	/āsiyāi/	asiatisch	Z1_0002.wav
+
+امروز	L.2	/emruz/	heute	L2_0001.wav
+آنها	L.2	/ānhā/	sie	L2_0002.wav
+او	L.2	/u/	er, sie, es	L2_0003.wav
+بله	L.2	/bale/	ja	L2_0004.wav
+تهران	L.2	/tehrān/	Teheran	L2_0006.wav
+در	L.2	/dar/	in, Tür, Deckel	L2_0007.wav
+درس	L.2	/dars/	Unterricht	L2_0008.wav
+درست	L.2	/dorost/	richtig	L2_0009.wav
+زیبا	L.2	/zibā/	schön	L2_0010.wav
+سلام	L.2	/salām/	Hallo	L2_0011.wav
+شما	L.2	/šomā/	Sie, ihr 	L2_0012.wav
+شمال	L.2	/šomāl/	Norden	L2_0013.wav
+شنبه	L.2	/šanbe/	Samstag	L2_0014.wav
+شهر	L.2	/šahr/	Stadt	L2_0015.wav
+کلاس	L.2	/kelās/	Unterricht, Klassenzimmer	L2_0017.wav
+گفت و گو	L.2	/goft-o gu/	Dialog, Gespräch	L2_0018.wav
+من	L.2	/man/	ich	L2_0019.wav
+و	L.2	/va/	und	L2_0020.wav
+ولی	L.2	/vali/	aber	L2_0021.wav
+هم 	L.2	/ham/	auch	L2_0022.wav
+همکلاسی	L.2	/hamkelāsi/	Klassenkamerad	L2_0023.wav
+
+اُردن	G.2	/ordon/	Jordanien	G2_0001.wav
+اُردو	G.2	/ordu/	Lager	G2_0002.wav
+اکسیر	G.2	/eksir/	Elixier	G2_0003.wav
+آلمان	G.2	/ālmān/	Deutschland	G2_0004.wav
+کتاب	G.2	/ketāb/	Buch	G2_0005.wav
+آمریکا	G.2	/āmrikā/	Amerika, USA	G2_0006.wav
+اِنکار	G.2	/enkār/	Verneinung	G2_0007.wav
+اوت	G.2	/ut/	August	G2_0008.wav
+ایشان	G.2	/išān/	sie (3. Pers. Pl.) 	G2_0009.wav
+باد	G.2	bād/	Wind	G2_0010.wav
+باز	G.2	/bāz/	offen	G2_0011.wav
+بدن	G.2	/badan/	Körper	G2_0012.wav
+بز	G.2	/boz/	Ziege	G2_0013.wav
+بشر	G.2	/bašar/	Menschheit	G2_0014.wav
+بو	G.2	/bu/ 	Geruch	G2_0015.wav
+بیم	G.2	/bim/	Angst	G2_0016.wav
+ترکیه	G.2	/torkiye/	Türkei	G2_0017.wav
+تشک	G.2	/tošak/	Matratze	G2_0018.wav
+تکرار	G.2	/tekrār/	Wiederholung	G2_0019.wav
+تو	G.2	/to/	du	G2_0020.wav
+توت	G.2	/tut/	Maulbeere	G2_0021.wav
+داس	G.2	/dās/	Sichel	G2_0022.wav
+دام	G.2	/dām/	Falle	G2_0023.wav
+دست	G.2	/dast/	Hand	G2_0024.wav
+در	G.2	/dar/	Tür, in	G2_0025.wav
+دیدن	G.2	/didan/	sehen	G2_0026.wav
+دل	G.2	/del/	Herz	G2_0027.wav
+دوات	G.2	/davāt/	Tintenfass	G2_0028.wav
+دوش	G.2	/duš/	Dusche	G2_0029.wav
+رَسته	G.2	/raste/	Rang	G2_0030.wav
+رو	G.2	/ru/	Gesicht	G2_0031.wav
+روسیه	G.2	/rusiye/	Russland	G2_0032.wav
+ریش	G.2	/riš/	Bart	G2_0033.wav
+زرد	G.2	/zard/	gelb	G2_0034.wav
+زن	G.2	/zan/	Frau	G2_0035.wav
+زیر	G.2	/zir/	unten, unter	G2_0036.wav
+لباس	G.2	/lebās/	Kleid, Kleidung	G2_0037.wav
+بلبل	G.2	/bolbol/	Nachtigall	G2_0038.wav
+بلیت	G.2	/belit/	Ticket	G2_0039.wav
+من	G.2	/man/	ich	G2_0040.wav
+مامان	G.2	/māmān/	Mutter, Mama	G2_0041.wav
+مداد	G.2	/medād/	Bleistift	G2_0042.wav
+شما	G.2	/šomā/	Sie, ihr	G2_0043.wav
+ممنون	G.2	/mamnun/	Danke	G2_0044.wav
+نمک	G.2	/namak/	Salz	G2_0045.wav
+هوا	G.2	/havā/	Luft, Wetter	G2_0046.wav
+همه	G.2	/hame/	alle	G2_0047.wav
+آنها	G.2	/ānhā/	sie	G2_0048.wav
+ماهی	G.2	/māhi/	Fisch	G2_0049.wav
+نه	G.2	/noh/	neun	G2_0050.wav
+ماه	G.2	/māh/	Monat, Mond 	G2_0051.wav
+همراه	G.2	/hamrāh/	Begleiter	G2_0052.wav
+تنبل	G.2	/tanbal/	faul, träge	G2_0053.wav
+سبد 	G.2	/sabad/	Korb	G2_0054.wav
+سه	G.2	/se/	drei	G2_0055.wav
+از	G.2	/az/	von, aus	G2_0056.wav
+به	G.2	/be/	zu, nach	G2_0057.wav
+سرو	G.2	/sarv/	Zeder	G2_0058.wav
+نیز	G.2	/niz/	auch, ebenfalls	G2_0059.wav
+سوت	G.2	/sut/	Pfeife	G2_0060.wav
+سور	G.2	/sur/	Festmahl	G2_0061.wav
+شاد	G.2	/šād/	froh	G2_0062.wav
+شل	G.2	/šol/	lose	G2_0063.wav
+فرانسه	G.2	/farānse/	Frankreich	G2_0064.wav
+کشتی	G.2	/kešti/	Schiff	G2_0065.wav
+کشور	G.2	/kešvar/	Land	G2_0066.wav
+کور	G.2	/kur/	blind	G2_0067.wav
+کویر	G.2	/kavir/	Wüste	G2_0068.wav
+لال	G.2	/lāl/	stumm	G2_0069.wav
+لب	G.2	/lab/	Lippe	G2_0070.wav
+مه	G.2	/meh/	Nebel	G2_0071.wav
+مهتاب	G.2	/mahtāb/	Mondlicht	G2_0072.wav
+نانوا	G.2	/nānvā/	Bäcker	G2_0073.wav
+ناو	G.2	/nāv/	Kriegsschiff	G2_0074.wav
+ورزش	G.2	/varzeš/	Sport	G2_0075.wav
+وزیر	G.2	/vazir/	Minister	G2_0076.wav
+ولگرد	G.2	/velgard/	Faulenzer, Müßiggänger	G2_0077.wav
+همکار	G.2	/hamkār/	Mitarbeiter	G2_0078.wav
+کجا	G.2	/koǧā/	wo	G2_0079.wav
+شب	G.2	/šab/	Nacht, Abend	G2_0080.wav
+ضمائر	G.2	/zamā’er/	Pronomen (Pl.)             	G2_0081.wav
+
+کجا	L.3	/koǧā/	wo	L3_0001.wav
+ارج	L.3	/arǧ/	Wert	L3_0002.wav
+از	L.3	/az/	ab, aus, von	L3_0003.wav
+پریروز 	L.3	/pariruz/	vorgestern	L3_0004.wav
+آشپز	L.3	/āšpaz/	Koch	L3_0005.wav
+آمدن	L.3	/āmadan/	kommen	L3_0006.wav
+اینجا	L.3	/inǧā/	hier	L3_0007.wav
+با هم	L.3	/bā ham/	zusammen	L3_0008.wav
+برنج	L.3	/berenǧ/	Reis	L3_0009.wav
+بودن	L.3	/budan/	sein	L3_0010.wav
+به	L.3	/be/	zu, nach	L3_0011.wav
+آره	L.3	/āre/	ja	L3_0012.wav
+پا	L.3	/pā/	Fuß	L3_0013.wav
+پتو	L.3	/patu/	Decke	L3_0014.wav
+پنجره	L.3	/panǧare/	Fenster	L3_0016.wav
+تپه	L.3	/tappe/	Hügel	L3_0017.wav
+توپ	L.3	/tup/	Ball	L3_0018.wav
+چند	L.3	/čand/	einige, wie viel	L3_0019.wav
+چی	L.3	/či/	was	L3_0020.wav
+خریدن	L.3	/ḫaridan/	kaufen	L3_0021.wav
+خوابگاه	L.3	/ḫābgāh/	Studentenwohnheim	L3_0022.wav
+خودکار	L.3	/ḫodkār/	Kugelschreiber	L3_0023.wav
+داشتن	L.3	/dāštan/	haben	L3_0024.wav
+دانشجو	L.3	/dānešǧu/	Student	L3_0025.wav
+دانشگاه	L.3	/dānešgāh/	Universität	L3_0026.wav
+دفتر	L.3	/daftar/	Heft, Büro	L3_0027.wav
+دیروز	L.3	/diruz/	gestern	L3_0028.wav
+رفتن	L.3	/raftan/	gehen	L3_0029.wav
+رنج	L.3	/ranǧ/	Mühe	L3_0030.wav
+سپس 	L.3	/sepas/	dann, danach	L3_0031.wav
+سپید	L.3	/sepid/	weiß	L3_0032.wav
+فارسی	L.3	/fārsi/	Persisch	L3_0033.wav
+فردا	L.3	/fardā/	morgen	L3_0034.wav
+ما	L.3	/mā/	wir	L3_0035.wav
+ماندن	L.3	/māndan/	bleiben	L3_0036.wav
+مداد	L.3	/medād/	Bleistift	L3_0037.wav
+مرسی	L.3	/mersi/	Danke, merci	L3_0038.wav
+فروشگاه	L.3	/forušgāh/	Geschäft, Supermarkt	L3_0039.wav
+هم ... هم	L.3	/ham…ham/	sowohl...als auch	L3_0040.wav
+
+پدر	G.3	/pedar/	Vater	G3_0001.wav
+خانه	G.3	/ḫāne/	Haus	G3_0002.wav
+بخت	G.3	/baḫt/	Glück	G3_0003.wav
+برف	G.3	/barf/	Schnee	G3_0004.wav
+پارسال	G.3	/pārsāl/	letztes Jahr	G3_0005.wav
+پوچ	G.3	/puč/	leer, nichtig	G3_0006.wav
+تخته	G.3	/taḫte/	Brett, Tafel	G3_0007.wav
+جا	G.3	/ǧā/	Ort, Platz	G3_0008.wav
+جمله	G.3	/ǧomle/	Satz, Gesamtheit	G3_0009.wav
+جوجه	G.3	/ǧuǧe/	Küken	G3_0010.wav
+جیب	G.3	/ǧib/	Jacken- oder Hosentasche	G3_0011.wav
+چمن	G.3	/čaman/	Gras	G3_0012.wav
+چه	G.3	/če/	was, welche	G3_0013.wav
+چهره	G.3	/čehre/	Gesicht	G3_0014.wav
+خاک	G.3	/ḫāk/	Erde	G3_0015.wav
+خر	G.3	/ḫar/	Esel	G3_0016.wav
+خواندن	G.3	/ ḫāndan/	lesen, singen	G3_0017.wav
+خویشتن	G.3	/ḫištan/	selbst	G3_0018.wav
+ریشه	G.3	/riše/	Stamm, Wurzel	G3_0019.wav
+ریشه گذشته 	G.3	/riše-ye gozašte/	Präteritalstamm	G3_0020.wav
+سفر	G.3	/safar/	Reise	G3_0021.wav
+سگ	G.3	/sag/	Hund	G3_0022.wav
+شاخ	G.3	/šāḫ/	Horn	G3_0023.wav
+گل	G.3	/gol/	Blume	G3_0024.wav
+سنگین	G.3	/sangin/	schwer	G3_0025.wav
+بزرگ	G.3	/bozorg/	groß	G3_0026.wav
+شاهرگ	G.3	/šāhrag/	Arterie	G3_0027.wav
+فرش	G.3	/farš/	Teppich	G3_0028.wav
+دختر	G.3	/doḫtar/	Tochter, Mädchen	G3_0029.wav
+فرشته	G.3	/ferešte/	Engel	G3_0030.wav
+خواهر	G.3	/ ḫāhar/	Schwester	G3_0031.wav
+خواستن 	G.3	/ ḫāstan/	wollen, verlangen	G3_0032.wav
+خواهش	G.3	/ḫāheš/ 	Bitte	G3_0033.wav
+کیف	G.3	/kif/	Tasche	G3_0034.wav
+گردش	G.3	/gardeš/	Ausflug, Spaziergang	G3_0035.wav
+فعل	G.3	/feʻl/	Verb	G3_0036.wav
+فکر	G.3	/fekr/	Gedanke	G3_0037.wav
+کاخ	G.3	/kāḫ/	Palast	G3_0038.wav
+کچل	G.3	/kačal/	Kahlköpfig	G3_0039.wav
+کفش	G.3	/kafš/	Schuhe	G3_0040.wav
+گرگ	G.3	/gorg/	Wolf	G3_0041.wav
+لگد	G.3	/lagad/	Fußtritt	G3_0042.wav
+مصدر	G.3	/masdar/	Infinitiv	G3_0043.wav
+منفی	G.3	/manfi/	negativ	G3_0044.wav
+میخ	G.3	/miḫ/	Nagel	G3_0045.wav
+ناف	G.3	/nāf/	Nabel	G3_0046.wav
+نگین	G.3	/negin/	Schmuckstein 	G3_0047.wav
+نوشتن	G.3	/ neveštan/	schreiben	G3_0048.wav
+هیچ	G.3	/hič/	kein, nichts	G3_0049.wav
+برف باریدن	G.3	/barf bāridan/	schneien	G3_0050.wav
+استان	Z.3	/ostān/	Provinz	Z3_0001.wav
+پایتخت	Z.3	/pāytaḫt/	Hauptstadt	Z3_0002.wav
+چندین	Z.3	/čandin/	mehrere, einige	Z3_0003.wav
+جنوب	Z.3	/ǧonub/	Süden	Z3_0006.wav
+مرکز	Z.3	/markaz/	Zentrum	Z3_0007.wav
+اما	Z.3	/ammā/	aber	Z3_0008.wav
+
+شب	L.4	/šab/	Nacht, Abend	L4_0001.wav
+اتاق	L.4	/otāq/	Zimmer	L4_0002.wav
+آشپزخانه	L.4	/āšpazḫāne/	Küche	L4_0003.wav
+آنجا	L.4	/ānǧā/	dort	L4_0004.wav
+بردن	L.4	/bordan/	tragen, mitnehmen	L4_0005.wav
+بشقاب	L.4	/bošqāb/	Teller	L4_0006.wav
+پس 	L.4	/pas/	denn	L4_0007.wav
+تا	L.4	/tā/	bis	L4_0008.wav
+چرا	L.4	/čerā/	warum, denn, doch	L4_0010.wav
+چیز	L.4	/čiz/	Sache, Ding, Gegenstand	L4_0011.wav
+حوله	L.4	/hole/	Handtuch	L4_0012.wav
+حیاط 	L.4	/hayāt/	Hof	L4_0013.wav
+خانه	L.4	/ḫāne/	Haus	L4_0014.wav
+خدا	L.4	/ḫodā/	Gott	L4_0015.wav
+خدا نگهدار	L.4	/ḫodā negahdār/	Auf Wiedersehen	L4_0016.wav
+خرید	L.4	/ḫarid/	Einkauf	L4_0017.wav
+خوردن	L.4	/ḫordan/	essen	L4_0018.wav
+دو	L.4	/do/	zwei	L4_0019.wav
+دیدن	L.4	/didan/	sehen, sich treffen	L4_0020.wav
+راه	L.4	/rāh/	Weg	L4_0021.wav
+زحمت	L.4	/zahmat/	Mühe, Fleiß	L4_0022.wav
+ژاله	L.4	/žāle/	Tau, Reif	L4_0023.wav
+شام	L.4	/šām/	Abendessen	L4_0024.wav
+صابون	L.4	/sābun/	Seife	L4_0025.wav
+صبح	L.4	/sobh/	Morgen, Vormittag	L4_0026.wav
+صبحانه	L.4	/sobhāne/	Frühstück	L4_0027.wav
+کتاب	L.4	/ketāb/	Buch	L4_0028.wav
+کتاب‌فروشی	L.4	/ketāb foruši/	Buchhandlung	L4_0029.wav
+کمی	L.4	/kami/	ein bisschen, eine Weile	L4_0030.wav
+نشستن	L.4	/nešastan/	setzen	L4_0031.wav
+هم‌اتاقی	L.4	/ham otāqi/	Mitbewohner	L4_0032.wav
+یک	L.4	/yek/	eins	L4_0033.wav
+قاشق	L.4	/qāšoq/	Löffel	L4_0034.wav
+کجا	L.4	/koǧā/	wo, wohin	L4_0035.wav
+خیلی	L.4	/ḫeyli/	sehr, viel	L4_0036.wav
+جور	L.4	/ǧur/	Sorte, Art	L4_0037.wav
+
+اجاق	G.4	/oǧāq/	Herd	G4_0001.wav
+آدم	G.4	/ādam/	Mensch	G4_0002.wav
+استاد	G.4	/ostād/	Professor	G4_0003.wav
+اطلاع	G.4	/ettelāʻ/	Information, Bescheid	G4_0004.wav
+پرسش	G.4	/porseš/	Frage	G4_0005.wav
+پرنده	G.4	/parande/	Vogel	G4_0006.wav
+پریدن	G.4	/paridan/	springen, fliegen	G4_0007.wav
+پژمرده	G.4	/pažmorde/	verblüht	G4_0008.wav
+تحریر	G.4	/tahrir/	Schreiben	G4_0009.wav
+تقویم	G.4	/taqvim/	Kalender	G4_0010.wav
+جمع	G.4	/ǧamʻ/	Plural, Gesamt, Kreis	G4_0011.wav
+جواهر	G.4	/ǧavāher/	Juwelier	G4_0012.wav
+چاقو	G.4	/čāqu/	Messer	G4_0013.wav
+حال	G.4	/hāl/	Zustand	G4_0014.wav
+دانا	G.4	/dānā/	Weise	G4_0015.wav
+درخت	G.4	/deraḫt/	Baum	G4_0016.wav
+را	G.4	/rā/	Postposition für Akkusativ	G4_0017.wav
+رژه	G.4	/reže/	Parade	G4_0018.wav
+روح	G.4	/ruh/	Geist	G4_0019.wav
+ژرف	G.4	/žarf/	tief	G4_0020.wav
+ژنده	G.4	/žende/	Lumpen	G4_0021.wav
+ژیان	G.4	/žiān/	rasend, wild	G4_0022.wav
+ستاره	G.4	/setāre/	Stern	G4_0023.wav
+سطل	G.4	/satl/	Eimer	G4_0024.wav
+شخص	G.4	/šaḫs/	Person	G4_0025.wav
+شرح	G.4	/šarh/	Erläuterung	G4_0026.wav
+شصت	G.4	/šast/	sechzig	G4_0027.wav
+شکستن	G.4	/šekastan/	zerbrechen	G4_0028.wav
+شیشه	G.4	/šiše/	Glas, Scheibe	G4_0029.wav
+صورت	G.4	/surat/	Gesicht	G4_0030.wav
+طرف	G.4	/taraf/	Seite	G4_0031.wav
+طلبکار	G.4	/talabkār/	Gläubiger	G4_0032.wav
+طناب	G.4	/tanāb/	Seil	G4_0033.wav
+عربی	G.4	/‘arabi/	arabisch	G4_0034.wav
+فروختن	G.4	/foruḫtan/	verkaufen	G4_0035.wav
+قلم	G.4	/qalam/	Feder	G4_0036.wav
+قند	G.4	/qand/	Würfelzucker	G4_0037.wav
+مرد	G.4	/mard/	Mann	G4_0038.wav
+فعل لازم	G.4	/fe‘l-e lāzem/	intransitives Verb	G4_0039.wav
+متعدی	G.4	/motaʻaddi/	Transitiv	G4_0040.wav
+متن	G.4	/matn/	Text	G4_0041.wav
+مطلب	G.4	/matlab/	Thema, Sache	G4_0042.wav
+معرفه 	G.4	/maʻrefe/	Bestimmtheit	G4_0043.wav
+مفرد	G.4	/mofrad/	Singular	G4_0044.wav
+نای	G.4	/nāy/	Luftröhre	G4_0045.wav
+نکره	G.4	/nakare/	Unbestimmtheit	G4_0046.wav
+نویسنده	G.4	/nevisande/	Schriftsteller	G4_0047.wav
+وسط	G.4	/vasat/	Mitte	G4_0048.wav
+ویژه	G.4	/viže/	speziell	G4_0049.wav
+یادگاری	G.4	/yādgāri/	Andenken	G4_0050.wav
+یار	G.4	/yār/	Freund	G4_0051.wav
+حرف	G.4	/harf/	Wort, Buchstabe	G4_0052.wav
+مخصوص	G.4	/maḫsus/	speziell	G4_0053.wav
+خاص	G.4	/ḫāss/	besonders, bestimmt	G4_0054.wav
+میدان	G.4	/meydān/	Platz	G4_0055.wav
+پایان	G.4	/pāyān/	Ende	G4_0056.wav
+چای	G.4	/čāy/	Tee	G4_0057.wav
+تفریح	G.4	/tafrih/	Vergnügen, Spaß	G4_0058.wav
+بازار	Z.4	/bāzār/	Basar	Z4_0001.wav
+مشتری	Z.4	/moštari/	Kunde	Z4_0002.wav
+قدیمی	Z.4	/qadimi/	alt	Z4_0003.wav
+بسیار	Z.4	/besyār/	sehr, viel	Z4_0004.wav
+پررونق	Z.4	/por ronaq/	belebt, boomend	Z4_0005.wav
+رستوران	Z.4	/resturān/	Restaurant	Z4_0006.wav
+غذا	Z.4	/qazā/	Essen, Nahrung	Z4_0007.wav
+زیاد	Z.4	/ziyād/	sehr, viel	Z4_0008.wav
+گران	Z.4	/gerān/	teuer	Z4_0009.wav
+همیشه	Z.4	/hamiše/	stets, immer	Z4_0010.wav
+پنج‌شنبه	Z.4	/panǧ šanbe/	Donnerstag	Z4_0011.wav
+
+اسم	L.5	/esm/	Name, Vorname	L5_0001.wav
+آلمانی	L.5	/ālmāni/	deutsch	L5_0002.wav
+آیا	L.5	/āyā/	ob (Fragewort)	L5_0003.wav
+بازار	L.5	/bāzār/	Basar	L5_0006.wav
+ باغ	L.5	/bāq/	Garten	L5_0007.wav
+بانک	L.5	/bānk/	Bank, Geldinstitut	L5_0008.wav
+برادر	L.5	/barādar/	Bruder	L5_0009.wav
+بزرگ	L.5	/bozorg/	groß	L5_0010.wav
+بعد از ظهر	L.5	/baʻd az zohr/	Nachmittag	L5_0011.wav
+بیکار	L.5	/bikār/	arbeitslos	L5_0012.wav
+پدر	L.5	/pedar/	Vater	L5_0013.wav
+ثابت	L.5	/sābet/	fest	L5_0014.wav
+چهار	L.5	/čahār/	vier	L5_0015.wav
+خانواده	L.5	/ḫānevāde/	Familie	L5_0016.wav
+خانه‌دار	L.5	/ḫānedār/	Hausfrau	L5_0017.wav
+خواهر	L.5	/ḫāhar/	Schwester	L5_0018.wav
+داروساز	L.5	/dārusāz/	Apotheker	L5_0019.wav
+دانش‌آموز	L.5	/dāneš āmuz/	Schüler	L5_0020.wav
+دبستان	L.5	/dabestān/	Grundschule	L5_0021.wav
+رشته 	L.5	/rešte/	Fachrichtug	L5_0022.wav
+زبان	L.5	/zabān/	Sprache, Zunge	L5_0023.wav
+سه	L.5	/se/	drei	L5_0025.wav
+شغل	L.5	/šoql/	Beruf, Job	L5_0028.wav
+شوهر	L.5	/šohar/	Mann, Ehemann	L5_0029.wav
+فقط 	L.5	/faqat/	nur	L5_0030.wav
+کارمند	L.5	/kārmand/	Beamter	L5_0031.wav
+کوچک	L.5	/kučak/	klein	L5_0033.wav
+گاهی	L.5	/gāhi/	manchmal	L5_0034.wav
+مادر	L.5	/mādar/	Mutter	L5_0035.wav
+معلم	L.5	/moʻallem/	Lehrer	L5_0036.wav
+معمولاً 	L.5	/maʻmulan/	normalerweise	L5_0037.wav
+مغازه	L.5	/maqāze/	Geschäft, Laden	L5_0038.wav
+نام	L.5	/nām/	Name, Vorname	L5_0039.wav
+نام خانوادگی 	L.5	/nām-e ḫānevādegi/	Familienname	L5_0040.wav
+نزدیک	L.5	/nazdik/	Nähe, nah	L5_0041.wav
+نفر	L.5	/nafar/	Person	L5_0042.wav
+وکیل	L.5	/vakil/	Rechtsanwalt	L5_0043.wav
+یلدا	L.5	/yaldā/	die längste Nacht des Jahres	L5_0044.wav
+
+کثیف	G.5	/kasif/	schmutzig	G5_0001.wav
+ارث	G.5	/ers/	Erbe	G5_0002.wav
+اضافه	G.5	/ezāfe/	Hinzufügung, Ergänzen 	G5_0003.wav
+باغبان	G.5	/bāqbān/	Gärtner	G5_0004.wav
+بعید	G.5	/baʻid/	unwahrscheinlich	G5_0005.wav
+بغل	G.5	/baqal/	Umarmung	G5_0006.wav
+پذیرفتن	G.5	/paziroftan/	annehmen, akzeptieren	G5_0007.wav
+ثروت	G.5	/servat/	Reichtum	G5_0008.wav
+ثمربخش	G.5	/samarbaḫš	fruchtbar, nützlich	G5_0009.wav
+داغ	G.5	/dāq/	heiß	G5_0010.wav
+ذره	G.5	/zarre/	Teilchen, Stäubchen	G5_0011.wav
+ذوب	G.5	/zob/	Schmelzen, Tauen	G5_0012.wav
+ذهن	G.5	/zehn/	Verstand, Gedächtnis	G5_0013.wav
+سفید	G.5	/sefid/	weiß	G5_0014.wav
+شروع	G.5	/šoruʻ/	Anfang	G5_0015.wav
+ضخیم	G.5	/zaḫim/	dick, korpulent	G5_0016.wav
+ضرب	G.5	/zarb/	Multiplikation, Schlag	G5_0017.wav
+ضرر	G.5	/zarar/	Schaden	G5_0018.wav
+ظالمانه	G.5	/zālemāne/	tyrannisch	G5_0019.wav
+ظریف	G.5	/zarif/	zart	G5_0020.wav
+عادی	G.5	/ʻādi/	normal	G5_0021.wav
+عروسی	G.5	/‘arusi/	Hochzeit	G5_0022.wav
+عمو	G.5	/‘amu/	Onkel (Bruder des Vaters)	G5_0023.wav
+غار	G.5	/qār/	Höhle	G5_0024.wav
+غارتگر	G.5	/qāratgar/	Plünderer	G5_0025.wav
+غاز	G.5	/qāz/	Gans	G5_0026.wav
+قراضه	G.5	/qorāze/	Schrott	G5_0027.wav
+قرض	G.5	/qarz/	Schuld, Darlehen	G5_0028.wav
+قرمز	G.5	/qermez/	rot	G5_0029.wav
+لثه	G.5	/lasse/	Zahnfleisch	G5_0030.wav
+لذت	G.5	/lezzat/	Vergnügen	G5_0031.wav
+لذیذ	G.5	/laziz/	lecker	G5_0032.wav
+مثل	G.5	/mesl/	wie	G5_0033.wav
+مریض	G.5	/mariz/	krank, Patient	G5_0034.wav
+منبع	G.5	/manbaʻ/	Quelle	G5_0035.wav
+مواظبت	G.5	/movāzebat/	Sorgsamkeit	G5_0036.wav
+مهربان	G.5	/mehrbān/	freundlich	G5_0037.wav
+نظامی	G.5	/nezāmi/	militärisch	G5_0038.wav
+نظم	G.5	/nazm/	Ordnung	G5_0039.wav
+گذشته 	G.5	/gozašte/	vergangen, Vergangenheit	G5_0040.wav
+ظهر	G.5	/zohr/	Mittag	G5_0041.wav
+خداحافظ	G.5	/ḫodāhāfez/	Auf Wiedersehen	G5_0042.wav
+بعد 	G.5	/baʻd/	dann, danach	G5_0043.wav
+جمع	G.5	/ǧamʻ/	Gesamtheit, Plural	G5_0044.wav
+تیغ	G.5	/tiq/	Klinge	G5_0045.wav
+تغذیه	G.5	/taqzie/	Ernährung	G5_0046.wav
+جهانگرد	Z.5	/ǧahāngard/	Tourist	Z5_0001.wav
+خرید و فروش	Z.5	/ḫarid-o foruš/	Kauf und Verkauf, Handel, Geschäft	Z5_0002.wav
+یکشنبه 	Z.5	/yekšanbe/	Sonntag	Z5_0003.wav
+هفته	Z.5	/hafte/	Woche	Z5_0004.wav
+هر	Z.5	/har/	jede, jeder, jedes	Z5_0005.wav
+هفت	Z.5	/haft/	sieben	Z5_0006.wav
+روز	Z.5	/ruz/	Tag	Z5_0007.wav
+دوشنبه	Z.5	/došanbe/	Montag	Z5_0008.wav
+سه‌شنبه	Z.5	/se šanbe/	Dienstag	Z5_0009.wav
+چهارشنبه	Z.5	/čahār šanbe/	Mittwoch	Z5_0010.wav
+پنج‌شنبه	Z.5	/panǧ šanbe/	Donnerstag	Z5_0011.wav
+جمعه	Z.5	/ǧomʻe/	Freitag	Z5_0012.wav
+تعطیل	Z.5	/taʻtil/	Feiertag	Z5_0013.wav
+آخرین	Z.5	/āḫarin/	letzter	Z5_0014.wav
+اولین	Z.5	/avalin/	erster	Z5_0015.wav
+
+آسان 	L.6	/āsān/	leicht	L6_0001.wav
+اتفاقاً 	L.6	/ettefāqan/	zufällig	L6_0002.wav
+اتوبوس	L.6	/otobus/	Bus	L6_0003.wav
+ادبیات	L.6	/adabiāt/	Literatur	L6_0004.wav
+آفتابی	L.6	/āftābi/	sonnig	L6_0005.wav
+اما	L.6	/ammā/	aber	L6_0006.wav
+اول	L.6	/avval/	erst/ zuerst	L6_0007.wav
+ایستگاه	L.6	/istgāh/	Haltestelle	L6_0008.wav
+ایستگاه راه‌آهن	L.6	/istgāh-e rāh āhan/	Bahnhof	L6_0009.wav
+باجه	L.6	/bāǧe/	Schalter	L6_0010.wav
+بارانی	L.6	/bārāni/	regnerisch	L6_0011.wav
+برای	L.6	/barāye/	für	L6_0012.wav
+برگشتن/ برگرد	L.6	/bargaštan/	zurückkommen, zurückkehren	L6_0013.wav
+بلیت	L.6	/belit/	Ticket	L6_0014.wav
+بلیت رفت و برگشت	L.6	/belit-e raft o bargašt/	Hin- und Rückfahrticket	L6_0015.wav
+به امید دیدار	L.6	/be omid-e didār/	Auf Wiedersehen	L6_0016.wav
+پنج	L.6	/panǧ/	fünf	L6_0017.wav
+پنج‌شنبه	L.6	/panǧ šanbe/	Donnerstag	L6_0018.wav
+جالب	L.6	/ǧāleb/	interessant	L6_0019.wav
+خارجی	L.6	/ḫāreǧi/	ausländisch, fremd	L6_0020.wav
+خانم	L.6	/ḫānum/	Frau, Dame	L6_0021.wav
+خداحافظ	L.6	/ḫodāhāfez/	Auf Wiedersehen	L6_0022.wav
+خوب	L.6	/ḫub/	gut	L6_0023.wav
+دانشکده	L.6	/dāneškade/	Fakultät	L6_0024.wav
+درسته	L.6	/doroste/	stimmt es, so ist es	L6_0025.wav
+دوشنبه	L.6	/došanbe/	Montag	L6_0026.wav
+دیدار	L.6	/didār/	Treffen	L6_0027.wav
+راستی	L.6	/rāsti/	übrigens	L6_0028.wav
+روز	L.6	/ruz/	Tag	L6_0029.wav
+زبان خارجی	L.6	/zabān-e ḫāreǧi/	Fremdsprache	L6_0030.wav
+زیاد	L.6	/ziyād/	sehr, viel	L6_0031.wav
+سخت 	L.6	/saḫt/	schwer, heftig	L6_0032.wav
+سرد	L.6	/sard/	kalt	L6_0033.wav
+سه‌شنبه	L.6	/se šanbe/	Dienstag	L6_0034.wav
+فهمیدن	L.6	/fahmidan/	verstehen, kapieren	L6_0035.wav
+قبلاً	L.6	/qablan/	früher, zuvor	L6_0036.wav
+قطار	L.6	/qatār/	Zug	L6_0037.wav
+کدام	L.6	/kodām/	welche, welcher, welches	L6_0038.wav
+گرم	L.6	/garm/	warm	L6_0039.wav
+مال	L.6	/māl/	Eigentum	L6_0040.wav
+مرکز	L.6	/markaz/	Zentrum	L6_0041.wav
+ممکن	L.6	/momken/	möglich	L6_0042.wav
+ممکنه	L.6	/momken-e/	Es ist möglich. Es kann sein.	L6_0043.wav
+همدیگر	L.6	/hamdigar/	einander, gegenseitig	L6_0044.wav
+هوا	L.6	/havā/	Luft, Wetter	L6_0045.wav
+
+نوروز	Z.6	/noruz/	 iranisches Neujahrsfestes	Z6_0001.wav
+برابر با	Z.6	/barābar bā/	gleich	Z6_0002.wav
+بهار	Z.6	/bahār/	Frühling	Z6_0003.wav
+آبان	Z.6	/ābān/	der 8. Monat des iranischen Kalenders	Z6_0004.wav
+آذر	Z.6	/āzar/	der 9. Monat des iranischen Kalenders	Z6_0005.wav
+اردیبهشت	Z.6	/ordibehešt/	der 2. Monat des iranischen Kalenders	Z6_0006.wav
+اسفند	Z.6	/esfand/	der 12. Monat des iranischen Kalenders	Z6_0007.wav
+رسمی	Z.6	/rasmi/	offiziell	Z6_0008.wav
+بهمن	Z.6	/bahman/	der 11. Monat des iranischen Kalenders	Z6_0009.wav
+تابستان	Z.6	/tābestān/	Sommer	Z6_0010.wav
+جدید 	Z.6	/ǧadid/	neu	Z6_0011.wav
+خرداد	Z.6	/ḫordād/	der 3. Monat des iranischen Kalenders	Z6_0012.wav
+خورشید	Z.6	/ḫoršid/	Sonne	Z6_0013.wav
+خورشیدی	Z.6	/ḫoršidi/	sonnen-	Z6_0014.wav
+دی	Z.6	/dey/	der 10. Monat des iranischen Kalenders	Z6_0015.wav
+زمستان	Z.6	/zemestān/	Winter	Z6_0016.wav
+سال	Z.6	/sāl/	Jahr	Z6_0017.wav
+شهریور	Z.6	/šahrivar/	der 6. Monat des iranischen Kalenders	Z6_0018.wav
+مارس	Z.6	/mārs/	März	Z6_0019.wav
+مرداد	Z.6	/mordād/	der 5. Monat des iranischen Kalenders	Z6_0020.wav
+مهر	Z.6	/mehr/	der 7. Monat des iranischen Kalenders	Z6_0021.wav
+فصل	Z.6	/fasl/	Jahreszeit, Kapitel	Z6_0022.wav
+پاییز	Z.6	/pāyiz/	Herbst	Z6_0023.wav
+یا	Z.6	/yā/	oder	Z6_0024.wav
+بنّا	G.6	/bannā/	Baumeister	G6_0001.wav
+تأسف	G.6	/ta’assof/	Bedauern	G6_0002.wav
+تأکید	G.6	/ta’kid/ 	Betonung, Nachdruck	G6_0003.wav
+تغذیه	G.6	/taqzie/	Ernährung	G6_0004.wav
+لطفاً	G.6	/lotfan/	bitte	G6_0005.wav
+جرأت	G.6	/ǧor’at/	Mut	G6_0006.wav
+جزء	G.6	/ǧoz’/	Teil	G6_0007.wav
+چطور	G.6	/četor/	wie, wieso	G6_0008.wav
+خائن	G.6	/ḫā’en/	Verräter	G6_0009.wav
+دائم 	G.6	/dā’em/	ständig, immer	G6_0010.wav
+صفر	G.6	/sefr/	null	G6_0011.wav
+کی	G.6	/ki/	wer	G6_0012.wav
+کی	G.6	/key/	wann	G6_0013.wav
+لؤلؤ	G.6	/lo’lo’/	Perle	G6_0014.wav
+مؤمن	G.6	/mo’men/	gläubig	G6_0015.wav
+نه	G.6	/noh/	neun	G6_0016.wav
+هشت	G.6	/hašt/	acht	G6_0017.wav
+بچه	G.6	/bačče/	Kind	G6_0018.wav
+حتماً	G.6	/hatman/	sicher, gewiss	G6_0019.wav
+سؤال	G.6	/so’āl/	Frage	G6_0020.wav
+رأس	G.6	/ra’s/	Kopf	G6_0021.wav
+گدا	G.6	/gedā/	Bettler	G6_0022.wav
+
+گذشته 	L.7	/gozašte/	vergangen, Vergangenheit	L7_0001.wav
+آب	L.7	/āb/	Wasser	L7_0002.wav
+آخر 	L.7	/āḫar/	Ende, Letzte	L7_0003.wav
+آخر هفته	L.7	/āḫar-e hafte/	Wochenende	L7_0004.wav
+ارزان 	L.7	/arzān/	billig	L7_0005.wav
+الان	L.7	/alān/	nun, jetzt	L7_0006.wav
+آوردن	L.7	/āvardan/	bringen	L7_0007.wav
+باشه	L.7	/bāše/	einverstanden, abgemacht	L7_0008.wav
+بخشیدن	L.7	/baḫšidan/	verzeihen, entschuldigen	L7_0009.wav
+بد	L.7	/bad/	schlecht	L7_0010.wav
+بعد 	L.7	/baʻd/	dann, danach	L7_0011.wav
+بعداً 	L.7	/baʻdan/	später, nachher	L7_0012.wav
+تازه	L.7	/tāze/	neu, frisch, vor kurzem	L7_0013.wav
+تاکسی	L.7	/tāksi/	Taxi	L7_0014.wav
+تشنه	L.7	/tešne/	durstig	L7_0015.wav
+تو	L.7	/tu/	in	L7_0016.wav
+خب	L.7	/ḫob/	OK, gut, ach so	L7_0017.wav
+خبر	L.7	/ḫabar/	Nachricht	L7_0018.wav
+دادن	L.7	/dādan/	geben	L7_0019.wav
+دوست	L.7	/dust/	Freund	L7_0020.wav
+شناختن	L.7	/šenāḫtan/	kennen, erkennen	L7_0021.wav
+ظهر	L.7	/zohr/	Mittag	L7_0022.wav
+غذا	L.7	/qazā/	Essen, Nahrung	L7_0023.wav
+کتابخانه	L.7	/ketābḫāne/	Bibliothek	L7_0024.wav
+گران	L.7	/gerān/	teuer	L7_0025.wav
+گرسنه	L.7	/gorosne/	hungrig	L7_0026.wav
+گرفتن	L.7	/gereftan/	nehmen, bekommen	L7_0027.wav
+گفتن	L.7	/goftan/	sagen, erzählen	L7_0028.wav
+لطفاً	L.7	/lotfan/	bitte	L7_0029.wav
+لیوان	L.7	/livān/	Glas, Becher	L7_0030.wav
+مامان	L.7	/māmān/	Mama	L7_0031.wav
+ممنون	L.7	/mamnun/	Danke	L7_0032.wav
+مهم	L.7	/mohemm/	wichtig	L7_0033.wav
+ناهار	L.7	/nāhār/	Mittagessen	L7_0034.wav
+هر	L.7	/har/	jede (-r, -s)	L7_0035.wav
+هفته	L.7	/hafte/	Woche	L7_0036.wav
+هم‌دانشگاهی	L.7	/ham dānešgāhi/	Studienkollege, Kommilitone	L7_0037.wav
+همه	L.7	/hame/	alle	L7_0038.wav
+همین 	L.7	/hamin/	diese, die da	L7_0039.wav
+سالن	L.7	/sālon/	Saal, Halle	L7_0040.wav
+
+امر	G.7	/amr/	Imperativ	G7_0001.wav
+پانزده	G.7	/pānzdah/	fünfzehn	G7_0002.wav
+چهارده	G.7	/čahārdah/	vierzehn	G7_0003.wav
+حال اخباری	G.7	/hāl-e eḫbāri/	Präsens	G7_0004.wav
+دانش	G.7	/dāneš/	Wissen	G7_0005.wav
+دوازده	G.7	/davāzdah/	zwölf	G7_0006.wav
+ریشه حال	G.7	/riše-ye hāl/	Präsensstamm	G7_0007.wav
+سیزده	G.7	/sizdah/	dreizehn	G7_0008.wav
+شانزده	G.7	/šānzdah/	sechzehn	G7_0009.wav
+فهرست	G.7	/fehrest/	Liste	G7_0010.wav
+نوزده	G.7	/nuzdah/	neunzehn	G7_0011.wav
+هجده	G.7	/heǧdah/	achtzehn	G7_0012.wav
+هفده	G.7	/hefdah/	siebzehn	G7_0013.wav
+یازده	G.7	/yāzdah/	elf	G7_0014.wav
+آموزش و پرورش	Z.7	/āmuzeš-o parvareš/	Ausbildung und Erziehung	Z7_0001.wav
+پرورش	Z.7	/parvareš/	erziehen, Erziehung	Z7_0002.wav
+پسرانه	Z.7	/pesarāne/	Jungen- , für Jungen	Z7_0003.wav
+پیش‌دانشگاهی	Z.7	/piš dānešgāhi/	Schuljahr vor der Universität	Z7_0004.wav
+دخترانه	Z.7	/doḫtarāne/	Mädchen-, für Mädchen	Z7_0005.wav
+ریاضی‌فیزیک	Z.7	/riāzi-fizik/	Mathematik Physik	Z7_0006.wav
+سالگی	Z.7	/sālegi/	im Alter von, jährig-	Z7_0007.wav
+سنّ	Z.7	/senn/	Alter	Z7_0008.wav
+علوم انسانی	Z.7	/ʻolum-e ensāni/	Geistwissenschaften	Z7_0009.wav
+علوم تجربی	Z.7	/ʻolum- tajrobi/	Experimentalwissenschaften	Z7_0010.wav
+مختلف 	Z.7	/moḫtalef/	verschieden, unterschiedlich 	Z7_0011.wav
+مدرسه	Z.7	/madrese/	Schule	Z7_0012.wav
+مدرسه ابتدایی	Z.7	/madrese-ye ebtedāi/	Grundschule	Z7_0013.wav
+مدرسه راهنمایی	Z.7	/madrase-ye rāhnamāi/	Mittelschule	Z7_0014.wav
+دیپلم	Z.7	/diplom/	Abitur	Z7_0015.wav
+ضرب‌المثل	Z.7	/zarb-ol masal/	Sprichwort	Z7_0016.wav
+
+ادامه داشتن	L.8	/edāme dāštan/	andauern	L8_0001.wav
+آماده شدن	L.8	/āmāde šodan/	sich vorbereiten	L8_0002.wav
+انواع 	L.8	/anvāʻ/	Typen, Sorten 	L8_0003.wav
+پنیر	L.8	/panir/	Käse	L8_0004.wav
+تشکیل شدن	L.8	/taškil šodan/	stattfinden	L8_0005.wav
+چای	L.8	/čāy/	Tee	L8_0006.wav
+چهارشنبه	L.8	/čahār šanbe/	Mittwoch	L8_0007.wav
+چهل	L.8	/čehel/	vierzig	L8_0008.wav
+خواب 	L.8	/ḫāb/	Schlaf	L8_0009.wav
+خوابیدن	L.8	/ḫābidan/	schlafen	L8_0010.wav
+خوشحال 	L.8	/ḫošhāl/	froh	L8_0011.wav
+خوشحال شدن	L.8	/ḫošhāl šodan/	sich freuen	L8_0012.wav
+درس ‌خواندن	L.8	/dars ḫāndan/	lernen/ studieren	L8_0013.wav
+دقیقه	L.8	/daqiqe/	Minute	L8_0014.wav
+دوباره	L.8	/dobāre/	wieder/ noch einmal	L8_0015.wav
+دوش ‌گرفتن	L.8	/duš gereftan/	duschen	L8_0016.wav
+زندگی کردن	L.8	/zendegi kardan/	wohnen, leben	L8_0017.wav
+زود	L.8	/zud/	früh	L8_0018.wav
+ساعت	L.8	/sāʻat/	Uhr	L8_0019.wav
+سی	L.8	/si/	dreißig	L8_0020.wav
+شروع شدن	L.8	/šoru‘ šodan/	beginnen, anfangen	L8_0021.wav
+شش	L.8	/šeš/	sechs	L8_0022.wav
+صبحانه خوردن	L.8	/sobhāne ḫordan/	frühstücken	L8_0023.wav
+کار	L.8	/kār/	Arbeit	L8_0024.wav
+کار کردن	L.8	/kār kardan/	arbeiten, tun, machen	L8_0025.wav
+گردو	L.8	/gerdu/	Walnuss	L8_0026.wav
+مربا 	L.8	/morabbā/	Marmelade	L8_0027.wav
+مسواک زدن	L.8	/mesvāk zadan/	Zähne putzen	L8_0028.wav
+مگر 	L.8	/magar/	denn	L8_0029.wav
+منتظرِ کسی ماندن	L.8	/montazer-e kasi māndan/	warten auf jmd.	L8_0030.wav
+میدان	L.8	/meydān/	Platz	L8_0031.wav
+نان	L.8	/nān/	Brot	L8_0032.wav
+نیم	L.8	/nim/	halb, Hälfte	L8_0033.wav
+هفت	L.8	/haft/	sieben	L8_0034.wav
+زندگی	L.8	/zendegi/	Leben	L8_0035.wav
+بیدار شدن 	L.8	/bidār šodan/	aufwachen	L8_0036.wav
+سوار شدن	L.8	/savār šodan/	einsteigen	L8_0037.wav
+پیاده شدن	L.8	/piyāde šodan/	aussteigen	L8_0038.wav
+همین طور	L.8	/hamin tor/	ebenfalls	L8_0039.wav
+از...تا	L.8	/az/.../tā/	von….bis	L8_0040.wav
+ده	L.8	/dah/	zehn	L8_0041.wav
+
+تحصیل کردن	G.8	/tahsil kardan/	studieren	G8_0001.wav
+سرما خوردن	G.8	/sarmā ḫordan/	sich erkälten	G8_0002.wav
+شبانه‌روز	G.8	/šabāne ruz/	Tag und Nacht, 24 Stunden	G8_0003.wav
+آبگوشت	Z.8	/ābgušt/	ein iranisches Fleischgericht	Z8_0001.wav
+اداره	Z.8	/edāre/	Amt	Z8_0002.wav
+آش	Z.8	/āš/	ein iranisches Gericht, Eintopf	Z8_0003.wav
+افراد 	Z.8	/afrād/	Personen, Menschen	Z8_0004.wav
+پرتقال	Z.8	/porteqāl/	Orange, Portugal	Z8_0005.wav
+توجه	Z.8	/tavaǧǧoh/	Achtung	Z8_0006.wav
+خامه 	Z.8	/ḫāme/	Sahne	Z8_0007.wav
+خانگی	Z.8	/ḫānegi/	hausgemacht 	Z8_0008.wav
+خربزه	Z.8	/ḫarboze/	Honigmelone, Melone	Z8_0009.wav
+خورشت	Z.8	/ḫorešt/	Reis mit warmer Soße	Z8_0010.wav
+دوغ	Z.8	/duq/	Dugh, ein iranisches Joghurtgetränk	Z8_0011.wav
+سالاد	Z.8	/sālād/	Salat	Z8_0012.wav
+سوپ	Z.8	/sup/	Suppe	Z8_0013.wav
+عسل	Z.8	/ʻasal/	Honig	Z8_0014.wav
+قهوه	Z.8	/qahve/	Kaffee	Z8_0015.wav
+کباب	Z.8	/kabāb/	Kebab, gegrilltes Fleisch	Z8_0016.wav
+کتلت	Z.8	/kotlet/	Kotelett, Rippchen	Z8_0017.wav
+کره 	Z.8	/kare/	Butter	Z8_0018.wav
+گازدار	Z.8	/gāzdār/	mit Kohlensäure versetzt	Z8_0019.wav
+گلابی	Z.8	/golābi/	Birne	Z8_0020.wav
+گیلاس	Z.8	/gilās/	Kirsche	Z8_0021.wav
+محلی	Z.8	/mahalli/	lokal, örtlich,heimisch	Z8_0022.wav
+مرغ	Z.8	/morq/	Hähnchen, Vogel	Z8_0023.wav
+مفصل 	Z.8	/mofassal/	ausführlich, reichhaltig	Z8_0024.wav
+مناطق	Z.8	/manāteq/	Regionen	Z8_0025.wav
+میوه	Z.8	/mive/	Obst	Z8_0026.wav
+نوشیدن	Z.8	/nušidan/	trinken	Z8_0027.wav
+وعده 	Z.8	/vaʻde/	Versprechen	Z8_0028.wav
+وعده غذایی	Z.8	/vaʻde-ye qazāi/	Mahlzeit	Z8_0029.wav
+هندوانه	Z.8	/hendevāne/	Wassermelone	Z8_0030.wav
+با توجه به	Z.8	/bā tavaǧǧoh be/	angesicht 	Z8_0031.wav
+خود	Z.8	/ḫod/	selbst	Z8_0032.wav
+
+اطراف	L.9	/atrāf/	Umgebung	L9_0001.wav
+آقا	L.9	/āqā/	Herr	L9_0002.wav
+آلوده	L.9	/ālude/	schmutzig	L9_0003.wav
+اندازه	L.9	/andāze/	Größe, Maß	L9_0004.wav
+اولین	L.9	/avalin/	erst(e)	L9_0005.wav
+این قدر	L.9	/in qadr/	so viel	L9_0006.wav
+بهتر	L.9	/behtar/	besser	L9_0007.wav
+پر	L.9	/por/	voll	L9_0008.wav
+پرجمعیت	L.9	/por ǧamʻiat/	bevölkerungsreich	L9_0009.wav
+پیاده رفتن	L.9	/piāde raftan/	zu Fuß gehen	L9_0010.wav
+تازگی	L.9	/tāzegi/	Neuheit, Novum	L9_0011.wav
+تازگی داشتن	L.9	/tāzegi dāštan/	ein Novum sein, neu sein	L9_0012.wav
+ترافیک	L.9	/terāfik/	Straßenverkehr, Stau	L9_0013.wav
+خلوت	L.9	/ḫalvat/	nicht viel los, leer, ruhig	L9_0014.wav
+خیابان	L.9	/ḫiyābān/	Straße	L9_0015.wav
+دوست داشتن	L.9	/dust dāštan/	mögen, lieben	L9_0016.wav
+دیدنی	L.9	/didani/	sehenswürdig	L9_0017.wav
+دیر‌	L.9	/dir/	spät	L9_0018.wav
+راننده	L.9	/rānande/	Fahrer	L9_0019.wav
+راه‌بندان	L.9	/rāhbandān/	Stau	L9_0020.wav
+رسیدن	L.9	/residan/	ankommen, erreichen	L9_0021.wav
+سنگین	L.9	/sangin/	schwer, dicht (Verkehr)	L9_0022.wav
+شلوغ	L.9	/šoluq/	viel los sein, belebt, überfüllt	L9_0023.wav
+عادت کردن	L.9	/ʻādat kardan/	sich gewöhnen	L9_0024.wav
+عجب	L.9	/ʻaǧab/	wie erstaunlich	L9_0025.wav
+عجله داشتن	L.9	/ʻaǧale dāštan/	in Eile sein	L9_0026.wav
+قدیمی	L.9	/qadimi/	alt	L9_0027.wav
+قرار داشتن	L.9	/qarār dāštan/	liegen, sich befinden	L9_0028.wav
+گیر کردن	L.9	/gir kardan/	steckenbleiben	L9_0029.wav
+مترو	L.9	/metro/	U-Bahn	L9_0030.wav
+نگران بودن	L.9	/negarān budan/	sich Sorgen machen	L9_0031.wav
+هر چند	L.9	/har čand/	obwohl	L9_0032.wav
+هر چه...	L.9	/har če/	je...desto	L9_0033.wav
+همیشه	L.9	/hamiše/	stets, immer	L9_0034.wav
+هنوز	L.9	/hanuz/	noch, noch nicht	L9_0035.wav
+جای دیدنی	L.9	/ǧāye didani/	Sehenswürdigkeit	L9_0036.wav
+
+اندیشیدن	G.9	/andišidan/	denken	G9_0001.wav
+خندیدن	G.9	/ḫandidan/	lachen	G9_0002.wav
+گریستن	G.9	/geristan/	weinen	G9_0003.wav
+نالیدن	G.9	/nālidan/	stöhnen, jammern	G9_0004.wav
+جهانگردی	G.9	/ǧahāngardi/	Weltreise	G9_0005.wav
+خود	G.9	/ḫod/	selbst	G9_0006.wav
+برگزیدن	Z.9	/bargozidan/	wählen	Z9_0001.wav
+بقیه	Z.9	/baqiye/	Rest	Z9_0002.wav
+بنیانگذار	Z.9	/bonyāngozār/	Gründer	Z9_0003.wav
+پوشیده	Z.9	/pušide/	bedeckt	Z9_0004.wav
+تاج‌گذاری کردن	Z.9	/tāǧ gozāri kardan/	sich krönen	Z9_0005.wav
+تفاوت	Z.9	/tafāvot/	Unterschied	Z9_0006.wav
+جمعیت	Z.9	/ǧamʻiyat/	Bevölkerung	Z9_0007.wav
+خودرو	Z.9	/ḫodro/	Auto	Z9_0008.wav
+خودروی شخصی	Z.9	/ḫodro-ye šaḫsi/	PKW	Z9_0009.wav
+دشمن	Z.9	/došman/	Feind	Z9_0010.wav
+رفت و آمد	Z.9	/raft-o āmad/	Straßenverkehr	Z9_0011.wav
+ساعت اداری	Z.9	/sāʻat-e edāri/	Werkzeit, Arbeitszeit	Z9_0012.wav
+سروقت	Z.9	/sar-e vaqt/	pünktlich	Z9_0013.wav
+سلسله 	Z.9	/selsele/	Dynastie, Reihe	Z9_0014.wav
+طلوع کردن	Z.9	/toluʻ kardan/	aufgehen (Sonne)	Z9_0015.wav
+عنوان	Z.9	/ʻonvān/	Titel	Z9_0016.wav
+به عنوان	Z.9	/be ʻonvān-e/	als	Z9_0017.wav
+غروب کردن	Z.9	/qorub kardan/	untergehen (Sonne)	Z9_0018.wav
+قله	Z.9	/qolle/	Bergspitze, Gipfel	Z9_0019.wav
+کلانشهر	Z.9	/kalānšahr/	Metropole	Z9_0020.wav
+میان	Z.9	/miān/	zwischen	Z9_0021.wav
+میلاد	Z.9	/milād/	Geburt	Z9_0022.wav
+نقطه	Z.9	/noqte/	Punkt, Ort	Z9_0023.wav
+نیاز داشتن	Z.9	/niyāz dāštan/	brauchen	Z9_0024.wav
+به ویژه	Z.9	/be viže/	nicht zuletzt, insbesondere	Z9_0025.wav
+
+استراحت کردن	L.10	/esterāhat kardan/	sich ausruhen	L10_0001.wav
+انقلاب	L.10	/enqelāb/	Revolution	L10_0002.wav
+بعدی	L.10	/baʻdi/	nächst (-e, -r)	L10_0003.wav
+بلوار	L.10	/bolvār/	Boulevard	L10_0004.wav
+پارک	L.10	/pārk/	Park	L10_0005.wav
+پاییز	L.10	/pāyiz/	Herbst	L10_0006.wav
+پیاده‌روی	L.10	/piāde ravi/	Spaziergang	L10_0007.wav
+تنبل	L.10	/tanbal/	faul	L10_0008.wav
+چهارراه	L.10	/čahār rāh/	Kreuzung	L10_0009.wav
+دور	L.10	/dur/	Ferne	L10_0010.wav
+رد شدن	L.10	/rad šodan/	vorbei gehen, durchfallen (Prüfung)	L10_0011.wav
+روبرو	L.10	/ruberu/	gegenüber	L10_0012.wav
+روی	L.10	/ruye/	auf	L10_0013.wav
+سمت	L.10	/samt-e/	Richtung	L10_0014.wav
+طول کشیدن	L.10	/tul kešidan/	dauern, andauern	L10_0015.wav
+غرب	L.10	/qarb/	Westen	L10_0016.wav
+فصل	L.10	/fasl/	Jahreszeit, Kapitel	L10_0017.wav
+کارگر	L.10	/kārgar/	Arbeiter	L10_0018.wav
+کشاورز	L.10	/kešāvarz/	Bauer	L10_0019.wav
+کنار	L.10	/kenār/	an, neben, Rand	L10_0020.wav
+گذشتن	L.10	/gozaštan/	passieren, vergangen sein	L10_0021.wav
+لاله	L.10	/lāle/	Tulpe	L10_0022.wav
+ماه	L.10	/māh/	Mond, Monat	L10_0023.wav
+مدتی	L.10	/moddati/	eine Weile	L10_0024.wav
+منتهی شدن 	L.10	/montahi šodan/	einmünden	L10_0025.wav
+نیمکت	L.10	/nimkat/	Bank	L10_0026.wav
+بیشتر	L.10	/bištar/	mehr	L10_0027.wav
+سر	L.10	/sar/	an	L10_0028.wav
+چقدر	L.10	/čeqadr/	wieviel, wie	L10_0029.wav
+
+خط عابر پیاده	G.10	/ḫatt-e ʻāber-e piāde/	Zebrastreifen	G10_0001.wav
+بستنی	G.10	/bastani/	Eis	G10_0002.wav
+عابر	G.10	/ʻāber/	Fußgänger	G10_0003.wav
+نخست	G.10	/naḫost/	erstens, erster	G10_0004.wav
+بدون	G.10	/bedun/	ohne	G10_0005.wav
+ارمنستان	Z.10	/armanestān/	Armenien	Z10_0001.wav
+اقلیت	Z.10	/aqaliat/	Minderheit	Z10_0002.wav
+بلوچی	Z.10	/baluči/	belutsch	Z10_0003.wav
+پارلمان	Z.10	/pārlemān/	Parlament	Z10_0004.wav
+پاکستان	Z.10	/pākestān/	Pakistan	Z10_0005.wav
+ترکمنستان	Z.10	/torkamanestān/	Turkmenistan	Z10_0006.wav
+ترکی	Z.10	/torki/	türkisch	Z10_0007.wav
+تولید کردن	Z.10	/tolid kardan/	produzieren, herstellen	Z10_0008.wav
+جنوب غربی	Z.10	/ǧonub-e qarbi/	Südwest	Z10_0009.wav
+جهان	Z.10	/ǧahān/	Welt	Z10_0010.wav
+خلیج فارس	Z.10	/ḫaliǧ-e fārs/	Persischer Golf	Z10_0011.wav
+درصد	Z.10	/dar sad/	Prozent	Z10_0012.wav
+دریا	Z.10	/daryā/	Meer	Z10_0013.wav
+دریای عمان	Z.10	/daryā-ye ʻomān/	Der Golf von Oman	Z10_0014.wav
+دریاچه	Z.10	/daryāče/	See	Z10_0015.wav
+زرتشتی	Z.10	/zartošti/	zarathustrisch	Z10_0016.wav
+سرشماری	Z.10	/saršomāri/	Volkszählung	Z10_0017.wav
+قاره	Z.10	/qārre/	Kontinent	Z10_0018.wav
+کافی شاپ	Z.10	/kāfi šāp/	Coffee Shop	Z10_0019.wav
+کردی	Z.10	/kordi/	kurdisch	Z10_0020.wav
+کیلومتر مربع	Z.10	/kilumetr-e morabbaʻ/	km²	Z10_0021.wav
+گاز	Z.10	/gāz/	Gaz	Z10_0022.wav
+گویش	Z.10	/guyeš/	Mundart, Dialekt, Akzent	Z10_0023.wav
+لری	Z.10	/lori/	lurisch	Z10_0024.wav
+مسلمان	Z.10	/mosalmān/	Muslim	Z10_0026.wav
+مسیحی	Z.10	/masihi/	christlich	Z10_0027.wav
+نفت	Z.10	/naft/	Öl	Z10_0028.wav
+وسعت	Z.10	/wosʻat/	Größe	Z10_0029.wav
+همسایه 	Z.10	/hamsāye/	Nachbar	Z10_0030.wav
+یهودی	Z.10	/yahudi/	jüdisch, Jude	Z10_0031.wav
+اسلام‌شناسی	Z.10	/eslām šenāsi/	Islamwissenschaft	Z10_0032.wav
+اسلام	Z.10	/eslām/	Islam	Z10_0033.wav
+پیرو	Z.10	/peyrov/	Anhänger	Z10_0034.wav
+دین	Z.10	/din/	Religion	Z10_0035.wav
+مجلس	Z.10	/maǧles/	das iranische Parlament	Z10_0036.wav
+نماینده	Z.10	/namāyande/	Vertreter, Abgeordnete 	Z10_0037.wav
+
+استادیوم	L.11	/estādiyom/	Stadion	L11_0001.wav
+الو	L.11	/alo/	Hallo	L11_0002.wav
+آهان 	L.11	/āhān/	ach so, ach ja	L11_0003.wav
+باید	L.11	/bāyad/	es ist nötig, man muss	L11_0004.wav
+برای همین	L.11	/barāye hamin/	deswegen	L11_0005.wav
+پیش از	L.11	/piš az/	vor	L11_0006.wav
+پیش از ظهر	L.11	/piš az zohr/	Vormittag	L11_0007.wav
+تعطیل	L.11	/taʻtil/	Feiertag	L11_0008.wav
+تلفن	L.11	/telefon/	Telefon	L11_0009.wav
+تلفنی	L.11	/telefoni/	telefonisch	L11_0010.wav
+تنها 	L.11	/tanhā/	allein, lediglich, nur	L11_0011.wav
+تواستن	L.11	/tavānestan/	können	L11_0012.wav
+تئاتر	L.11	/te’ātr/	Theater	L11_0013.wav
+جدایی	L.11	/ǧodāi/	Trennung	L11_0014.wav
+جمعه	L.11	/ǧomʻe/	Freitag	L11_0015.wav
+چون	L.11	/čun/	weil, denn	L11_0016.wav
+حیف	L.11	/heyf/	schade	L11_0017.wav
+خواستن 	L.11	/ ḫāstan/	wollen, verlangen	L11_0018.wav
+دعوت کردن	L.11	/daʻvat kardan/	einladen	L11_0019.wav
+دیگر	L.11	/digar/	nächste, andere	L11_0020.wav
+زنگ زدن	L.11	/zang zadan/	anrufen, klingeln	L11_0021.wav
+سینما	L.11	/sinamā/	Kino	L11_0022.wav
+شاید	L.11	/šāyad/	vielleicht	L11_0023.wav
+شماره	L.11	/šomāre/	Nummer	L11_0024.wav
+شنیدن	L.11	/šenidan/	hören	L11_0025.wav
+عصر	L.11	/ʻasr/	Nachmittag/ Abend, Zeit	L11_0026.wav
+فوتبال	L.11	/futbāl/	Fußball	L11_0027.wav
+فیلم	L.11	/film/	Film	L11_0028.wav
+کارگردان	L.11	/kārgardān/	Regisseur	L11_0029.wav
+کمک کردن	L.11	/komak kardan/	helfen	L11_0030.wav
+متاسفانه	L.11	/mota’assefāne/	leider	L11_0031.wav
+مجبور بودن	L.11	/maǧbur budan/	müssen, gezwungen sein	L11_0032.wav
+مکالمه	L.11	/mokāleme/	Konversation	L11_0033.wav
+وقت	L.11	/vaqt/	Zeit 	L11_0034.wav
+هیچی!	L.11	/hiči/	nichts besonderes	L11_0035.wav
+مهمان	L.11	/mehmān/	Gast	L11_0036.wav
+تماشا کردن	L.11	/tamāšā kardan/	zuschauen, angucken	L11_0037.wav
+یا	L.11	/yā/	oder	L11_0038.wav
+
+سواد	G.11	/savād/	Schriftkundigkeit, Bildung	G11_0001.wav
+نا	G.11	/nā/	Negativpräfix	G11_0002.wav
+هنر	G.11	/honar/	Kunst	G11_0003.wav
+منظم	G.11	/monazzam/	geordnet	G11_0004.wav
+اجازه داشتن	G.11	/eǧāze dāštan/	dürfen	G11_0005.wav
+مایل بودن	G.11	/māyel budan/	mögen	G11_0006.wav
+مناسب 	G.11	/monāseb/	passend, geeignet	G11_0007.wav
+ادب	G.11	/adab/	Literatur, Höflichkeit	G11_0008.wav
+التزامی	G.11	/eltezāmi/	Konjunktiv	G11_0009.wav
+سنت‌	Z.11	/sonnat/	Tradition	Z11_0001.wav
+واژه 	Z.11	/vāže/	Ausdruck	Z11_0002.wav
+دسامبر	Z.11	/desāmbr/	Dezember	Z11_0003.wav
+گرد	Z.11	/gerd/	rund, um	Z11_0004.wav
+گشتن	Z.11	/gaštan/	sich drehen, zirkulieren, spazierengehen 	Z11_0005.wav
+یار	Z.11	/yār/	Freund, Verlobte	Z11_0006.wav
+آخرین	Z.11	/āḫarin/	allerletzte, letzter 	Z11_0007.wav
+نامیدن	Z.11	/nāmidan/	nennen	Z11_0008.wav
+هزار	Z.11	/hezār/	tausend	Z11_0009.wav
+جشن گرفتن	Z.11	/ǧašn gereftan/	feiern	Z11_0010.wav
+تولد	Z.11	/tavallod/	Geburt	Z11_0011.wav
+معنا	Z.11	/maʻnā/	Bedeutung	Z11_0012.wav
+روشنایی	Z.11	/rošanāi/	Licht, Helligkeit	Z11_0013.wav
+جمع شدن	Z.11	/ǧamʻ šodan/	sich versammeln	Z11_0014.wav
+خوشی	Z.11	/ḫoši/	fröhlich	Z11_0015.wav
+در کنارِ هم 	Z.11	/dar kenār-e ham/	miteinander	Z11_0016.wav
+سپری کردن	Z.11	/separi kardan/	verbringen	Z11_0017.wav
+آجیل	Z.11	/āǧil/	Naschwerk, getrocknete Früchte	Z11_0018.wav
+شاهنامه	Z.11	/šāhnāme/	Königsbuch	Z11_0019.wav
+شعر	Z.11	/šeʻr/	Gedicht, Dichtung	Z11_0021.wav
+شبِ یلدا	Z.11	/šab-e yaldā/	Yalda-Nacht, die längste Nacht des Jahres	Z11_0022.wav
+
+اشتیاق	L.12	/eštiyāq/	Sehnsucht, heftiges Verlangen	L12_0001.wav
+آشنا شدن 	L.12	/āšnā šodan/	jmdn. kennen lernen	L12_0002.wav
+جدی	L.12	/ǧeddi/	ernst, echt	L12_0003.wav
+خوشبختانه	L.12	/ḫošbaḫtāne/	glücklicherweise	L12_0004.wav
+دانستن	L.12	/dānestan/	wissen	L12_0005.wav
+راستش	L.12	/rāsteš/	ehrlich gesagt	L12_0006.wav
+سر زدن 	L.12	/sar zadan/	vorbei schauen/ gehen	L12_0007.wav
+فراموش کردن	L.12	/farāmuš kardan/	vergessen	L12_0008.wav
+فکر کردن 	L.12	/fekr kardan/	denken, glauben	L12_0009.wav
+محوطه	L.12	/mohavvate/	Hof, Umgebung	L12_0010.wav
+ناگهان	L.12	/nāgahān/	plötzlich	L12_0011.wav
+هیجان	L.12	/hayaǧān/	Aufregung, Spanung	L12_0012.wav
+
+بی‌صدا	G.12	/bi sedā/	stumm, Stummfilm	G12_0001.wav
+اس‌ام‌اس	Z.12	/es em es/	SMS	Z12_0001.wav
+الکترونیکی	Z.12	/elektroniki/	elektronisch	Z12_0002.wav
+انگلیسی	Z.12	/englisi/	Englisch	Z12_0003.wav
+ایمیل	Z.12	/imeyl/	Email	Z12_0004.wav
+برخی	Z.12	/barḫi/	einige	Z12_0005.wav
+برخی از	Z.12	/barḫi az/	einige von	Z12_0006.wav
+پیامک	Z.12	/payāmak/	SMS, kurze Nachricht	Z12_0007.wav
+تبدیل کردن	Z.12	/tabdil kardan/	umwandeln, umformen	Z12_0008.wav
+رساندن	Z.12	/resāndan/	zustellen, liefern, ausrichten	Z12_0009.wav
+سایت 	Z.12	/sāyt/	Internetseite, Webseite	Z12_0010.wav
+صدا	Z.12	/sedā/	Stimme, Laut	Z12_0011.wav
+عکس	Z.12	/ʻaks/	Foto	Z12_0012.wav
+فرستادن	Z.12	/ferestādan/	schicken, zuschicken, senden	Z12_0013.wav
+گوگل	Z.12	/gugel/	Google	Z12_0014.wav
+سلام رساندن	Z.12	/salām resāndan/	einen Gruß bestellen (überbringen)	Z12_0015.wav
+نگه داشتن	Z.12	/negah dāštan/	halten, bewahren, behüten	Z12_0016.wav
+خط	Z.12	/ḫatt/	Schrift, Schreibart	Z12_0017.wav
+
+امیدوار بودن	L.13	/omidvār budan/	hoffen	L13_0001.wav
+بار	L.13	/bār/	Last, Mal	L13_0002.wav
+باز هم	L.13	/bāz ham/	wieder	L13_0003.wav
+برداشتن	L.13	/bardaštan/	(den Hörer) abheben, abnehmen, nehmen	L13_0004.wav
+بیرون	L.13	/birun/	draußen	L13_0005.wav
+بیرون رفتن	L.13	/birun raftan/	ausgehen 	L13_0006.wav
+پسر	L.13	/pesar/	Junge, Sohn	L13_0007.wav
+تاریک	L.13	/tārik/	dunkel	L13_0008.wav
+تلفن زدن	L.13	/telefon zadan/	anrufen	L13_0009.wav
+تلفنِ همراه	L.13	/telefon-e hamrāh/	Handy, Mobiltelefon	L13_0010.wav
+تماس گرفتن 	L.13	/tamās gereftan/	kontaktieren	L13_0011.wav
+جواب دادن	L.13	/ǧavab dādan/	antworten	L13_0012.wav
+جوان	L.13	/ǧavān/	jung	L13_0013.wav
+دختر	L.13	/doḫtar/	Tochter, Mädchen	L13_0014.wav
+دفعه	L.13	/dafʻe/	Mal	L13_0015.wav
+در راه	L.13	/dar rāh/	unterwegs	L13_0016.wav
+رستوران	L.13	/resturān/	Restaurant	L13_0017.wav
+سرانجام	L.13	/sar anǧām/	schließlich	L13_0018.wav
+سعی کردن	L.13	/saʻy kardan/	versuchen	L13_0019.wav
+صبر کردن	L.13	/sabr kardan/	warten	L13_0020.wav
+قبول کردن	L.13	/qabul kardan/	annehmen	L13_0021.wav
+قرار است	L.13	/qarār ast/	es ist vereinbart,dass	L13_0022.wav
+کاش	L.13	/kāš/	wenn doch	L13_0023.wav
+که	L.13	/ke/	dass, denn	L13_0024.wav
+کیف	L.13	/kif/	Tasche, Handtasche	L13_0025.wav
+گذاشتن	L.13	/gozāštan/	lassen, stellen, hinstellen	L13_0026.wav
+گردش	L.13	/gardeš/	Ausflug, Spaziergang	L13_0027.wav
+گوشی	L.13	/guši/	Hörer	L13_0028.wav
+متوجه شدن	L.13	/motavaǧǧeh šodan/	merken, feststellen	L13_0029.wav
+مطمئن بودن	L.13	/motma’en budan/	sicher sein	L13_0030.wav
+معلوم	L.13	/maʻlum/	bekannt, klar	L13_0031.wav
+ملت	L.13	/mellat/	Volk	L13_0032.wav
+موبایل	L.13	/mobāyl/	Handy, Mobile	L13_0033.wav
+موفق شدن	L.13	/movaffaq šodan/	gelingen, Erfolg haben	L13_0034.wav
+همچنان	L.13	/hamčenān/	immer noch, noch immer	L13_0035.wav
+همراه	L.13	/hamrāh/	Begleiter, Weggefährte	L13_0036.wav
+
+فروش	G.13	/foruš/	Verkauf	G13_0001.wav
+هنرمند	G.13	/honarmand/	Künstler, begabt	G13_0002.wav
+باران	G.13	/bārān/	Regen	G13_0003.wav
+گوناگون	Z.13	/gunāgun/	unterschiedlich	Z13_0001.wav
+از این رو	Z.13	/az in ru/	deswegen	Z13_0002.wav
+اندکی	Z.13	/andaki/	ein wenig, ein bisschen	Z13_0003.wav
+تفاوت داشتن	Z.13	/tafāvot dāštan/	sich unterscheiden	Z13_0004.wav
+تمدن	Z.13	/tamaddon/	Zivilisation	Z13_0005.wav
+دری	Z.13	/dari/	Dari	Z13_0006.wav
+روستا	Z.13	/rustā/	Dorf	Z13_0007.wav
+روسی	Z.13	/rusi/	russisch	Z13_0008.wav
+علاوه بر	Z.13	/ʻalāve bar/	neben	Z13_0009.wav
+لهجه	Z.13	/lahǧe/	Mundart, Dialekt	Z13_0010.wav
+وجود داشتن	Z.13	/voǧud dāštan/	existieren, vorhanden sein. geben	Z13_0011.wav
+هم اکنون	Z.13	/ham aknun/	nun, jetzt	Z13_0012.wav
+هند و اروپایی	Z.13	/hend-o orupāi/	indoeuropäisch	Z13_0013.wav
+هند و ایرانی	Z.13	/hend-o irāni/	indo-iranisch	Z13_0014.wav
+یکدیگر	Z.13	/yekdigar/	einander/ gegenseitig	Z13_0015.wav
+پارسی	Z.13 	/pārsi/	Farsi	Z13_0016.wav
+مرگ	Z.13	/marg/	Tod	Z13_0017.wav
+ساله	Z.13	/sāle/	Alter, Jahre	Z13_0018.wav
+محسوب شدن	Z.13	/mahsub šodan/	bezeichnet/ gezählt werden	Z13_0019.wav
+معروف	Z.13	/maʻruf/	bekannt, berühmt	Z13_0020.wav
+چپ	Z.13	/čap/	links	Z13_0021.wav
+به شمار آمدن	Z.13	/be šomār āmadan/	gezählt werden, gelten	Z13_0022.wav
+بخش	Z.13	/baḫš/	Teil	Z13_0023.wav
+تاجیکستان	Z.13	/tāǧikestān/	Tadschikistan	Z13_0024.wav
+افغانستان	Z.13	/afqānestān/	Afghanistan	Z13_0025.wav
+مردم	Z.13	/mardom/	Leute	Z13_0026.wav
+بسیاری از	Z.13	/besyāri az/	viele von	Z13_0027.wav
+هند	Z.13	/hend/	Indien	Z13_0028.wav
+متاهل	Z.13	/mota’ahhel/	verheiratet	Z13_0029.wav
+مجرد	Z.13	/moǧarrad/	ledig	Z13_0030.wav
+
+ابتدا	L.14	/ebtedā/	zuerst, Anfang, Beginn	L14_0001.wav
+به اسم	L.14	/be esme/	namens	L14_0002.wav
+آشپزی کردن	L.14	/āšpazi kardan/	kochen	L14_0003.wav
+افزودن	L.14	/afzudan/	hinzufügen	L14_0004.wav
+امشب	L.14	/emšab/	heute Abend	L14_0005.wav
+آنگاه	L.14	/āngāh/	dann	L14_0006.wav
+ایرانی	L.14	/irāni/	iranisch	L14_0007.wav
+پختن	L.14	/poḫtan/	kochen	L14_0008.wav
+پشت	L.14	/pošt/	hinter, Rücken, Rückseite	L14_0009.wav
+تخم‌مرغ	L.14	/toḫm-e morq/	Ei	L14_0010.wav
+چیدن	L.14	/čidan/	anordnen, aufstellen	L14_0011.wav
+حتماً	L.14	/hatman/	sicher, gewiss	L14_0012.wav
+خرد کردن	L.14	/ḫord kardan/	zerkleinern	L14_0013.wav
+خط	L.14	/ḫatt/	Linie, Schreibart	L14_0014.wav
+خواهش کردن	L.14	/ḫāheš kardan/ 	bitten	L14_0015.wav
+خوشمزه	L.14	/ḫošmaze/	köstlich, lecker	L14_0016.wav
+درد	L.14	/dard/	Schmerz	L14_0017.wav
+دست	L.14	/dast/	Hand	L14_0018.wav
+دیر کردن	L.14	/dir kardan/	sich verspäten	L14_0019.wav
+سبزی	L.14	/sabzi/	Kräuter, Gemüse	L14_0020.wav
+سرخ کردن	L.14	/sorḫ kardan/	braten 	L14_0021.wav
+سرگرم شدن 	L.14	/sargarm šodan/	mit etw. anfangen, sich befassen mit	L14_0022.wav
+شستن	L.14	/šostan/	waschen	L14_0023.wav
+عاشق بودن	L.14	/ʻāšeq budan/	mögen,verliebt sein	L14_0024.wav
+فلفل	L.14	/felfel/	Pfeffer	L14_0025.wav
+لازم	L.14	/lāzem/	benötigt	L14_0027.wav
+ماست	L.14	/māst/	Joghurt	L14_0028.wav
+مانند	L.14	/mānand/	wie, Beispiel	L14_0029.wav
+ماهی‌تابه	L.14	/māhi tābe/	Pfanne	L14_0030.wav
+مخلوط کردن	L.14	/maḫlut kardan/	mischen, mixen	L14_0031.wav
+مشترک	L.14	/moštarak/	gemeinsam	L14_0032.wav
+مواد	L.14	/mavvād/	Materialien, Zutaten	L14_0033.wav
+میز	L.14	/miz/	Tisch	L14_0034.wav
+به نام 	L.14	/be nām-e/	namens	L14_0035.wav
+نمک	L.14	/namak/	Salz	L14_0036.wav
+نوشابه	L.14	/nušābe/	Getränk, Cola	L14_0037.wav
+نوش جان	L.14	/nuše ǧān/	Guten Appetit 	L14_0038.wav
+یخچال	L.14	/yaḫčāl/	Kühlschrank	L14_0039.wav
+ساده	L.14 	/sāde/	einfach	L14_0040.wav
+سرخ شده	L.14	/sorḫ šode/	angebraten	L14_0041.wav
+
+انجام دادن	G.14	/anǧām dadan/	tun	G14_0001.wav
+زادن	G.14	/zādan/	gebären	G14_0002.wav
+کاربرد 	G.14	/kārbord/	Verwendung, Gebrauch	G14_0003.wav
+داغ کردن	Z.14	/dāq kardan/	erhitzen	Z14_0001.wav
+تا	Z.14	/tā/	Stück, Zählwort	Z14_0002.wav
+جعفری	Z.14	/ǧaʻfari/	Petersilie	Z14_0003.wav
+آرد	Z.14	/ārd/	Mehl	Z14_0004.wav
+اضافه کردن	Z.14	/ezāfe kardan/	hinzufügen	Z14_0005.wav
+آماده	Z.14	/āmāde/	bereit	Z14_0006.wav
+برگرداندن	Z.14	/bar gardāndan/	umdrehen	Z14_0007.wav
+ به هم زدن	Z.14	/be ham zadan/	mixen, mischen	Z14_0008.wav
+پیازچه	Z.14	/piyāzče/	Schnittlauch	Z14_0009.wav
+تقسیم کردن	Z.14	/taqsim kardan/	teilen, aufteilen	Z14_0010.wav
+حرارت	Z.14	/harārat/	Temperatur	Z14_0011.wav
+خرد شده	Z.14	/ḫord šode/	gerieben, gemahlen	Z14_0012.wav
+خنک	Z.14	/ḫonak/	kühl, kalt	Z14_0013.wav
+دستورِ پخت 	Z.14	/dastur-e poḫt/	Rezept, Kochanleitung	Z14_0014.wav
+روغن	Z.14	/roqan/	Öl	Z14_0015.wav
+ریختن	Z.14	/riḫtan/	gießen, schütten	Z14_0016.wav
+زرشک	Z.14	/zerešk/	Berberitze	Z14_0017.wav
+شامل	Z.14	/šāmel/	bestehend aus	Z14_0018.wav
+شور	Z.14	/šur/	salzig	Z14_0019.wav
+شوید	Z.14	/ševid/	Dill	Z14_0020.wav
+صاف	Z.14	/sāf/	glatt	Z14_0021.wav
+ظرف	Z.14	/zarf/	Gefäß, Behälter, Geschirr	Z14_0022.wav
+عدد	Z.14	/ʻadad/	Zahl, Stück	Z14_0023.wav
+قاشق غذاخوری	Z.14	/qāšoq-e qazāḫori/	Esslöffel	Z14_0024.wav
+کافی	Z.14	/kāfi/	ausreichend	Z14_0025.wav
+کاهو	Z.14	/kāhu/	Salat, Lattich	Z14_0026.wav
+کم 	Z.14	/kam/	wenig	Z14_0027.wav
+کیلوگرم	Z.14	/kilu geram/	Kilogramm	Z14_0028.wav
+گشنیز	Z.14	/gešniz/	Koriander	Z14_0029.wav
+گندم	Z.14	/gandom/	Weizen	Z14_0030.wav
+مخلوط شده	Z.14	/maḫlut šode/	vermischt	Z14_0031.wav
+مقدار	Z.14	/meqdār/	Menge	Z14_0032.wav
+آش	Z.14	/āš/	Suppe	Z14_0033.wav
+قسمت	Z.14	/qesmat/	Teil	Z14_0034.wav
+
+آخرین	L.15	/āḫarin/	allerletzte	L15_0001.wav
+اسفند	L.15	/esfand/	der 12. Monat des iranischen Kalenders	L15_0002.wav
+باقی ماندن	L.15	/bāqi māndan/	übrig bleiben	L15_0003.wav
+بنابر این	L.15	/banābar in/	deswegen	L15_0004.wav
+پایان	L.15	/pāyān/	Ende	L15_0005.wav
+پرواز کردن	L.15	/parvāz kardan/	fliegen	L15_0006.wav
+پیدا کردن	L.15	/peydā kardan/	finden	L15_0007.wav
+ترسیدن	L.15	/tarsidan/	fürchten	L15_0008.wav
+تعطیلات	L.15	/taʻtilāt/	Ferien	L15_0009.wav
+تماس	L.15	/tamās/	Kontakt	L15_0010.wav
+مزاحم شدن	L.15	/mozāhem šodan/	stören	L15_0011.wav
+نزد	L.15	/nazd/	zu, bei	L15_0012.wav
+نو	L.15	/no/	neu	L15_0013.wav
+نوروز	L.15	/noruz/	Name des iranischen Neujahrsfestes	L15_0014.wav
+
+تعجب	G.15	/taʻaǧǧob/	Staunen	G15_0001.wav
+خنده	G.15	/ḫande/	Lachen	G15_0002.wav
+کوشیدن	G.15	/kušidan/	sich Mühe geben, bemühen	G15_0003.wav
+آغاز	Z.15	/āqāz/	Anfang	Z15_0001.wav
+بستگان	Z.15	/bastegān/	Verwandten	Z15_0002.wav
+‌پوشیدن	Z.15	/pušidan/	anziehen	Z15_0003.wav
+تمیز کردن	Z.15	/tamiz kardan/	sauber machen	Z15_0004.wav
+جشن	Z.15	/ǧašn/	Fest	Z15_0005.wav
+خانه‌تکانی	Z.15	/ḫāne tekāni/	Hausputz, Frühjahrsputz	Z15_0006.wav
+دید و بازدید	Z.15	/did-o bāzdid/	gegenseitige Besuche	Z15_0007.wav
+سازمان ملل متحد	Z.15	/sāzmān-e melal-e mottahed/	Vereinte Nationen	Z15_0008.wav
+سبزی‌پلو	Z.15	/sabzi polo/	Kräuterreis	Z15_0009.wav
+سوریه	Z.15	/suriye/	Syrien	Z15_0010.wav
+طبیعت	Z.15	/tabi’at/	Natur	Z15_0011.wav
+عراق	Z.15	/ʻerāq/	Irak	Z15_0012.wav
+عید	Z.15	/ʻeyd/	Fest, Neujahrsfest	Z15_0013.wav
+عید شما مبارک!	Z.15	/ʻeyd-e šomā mobārak/	Frohes Neues Jahr!	Z15_0014.wav
+عیدی	Z.15	/ʻeydi/	Geschenk (meistens Geld) an Noruz, Festgeschenk	Z15_0015.wav
+فرق	Z.15	/farq/	Unterschied	Z15_0016.wav
+فرق داشتن	Z.15	/farq dāštan/	unterschiedlich sein, unterscheiden	Z15_0017.wav
+کهن	Z.15	/kohan/	alt	Z15_0018.wav
+لباس	Z.15	/lebās/	Kleid	Z15_0019.wav
+ماهی	Z.15	/māhi/	Fisch	Z15_0020.wav
+مخصوص	Z.15	/maḫsus/	speziell	Z15_0021.wav
+منطقه 	Z.15	/mantaqe/	Region, Bezirk	Z15_0022.wav
+جمهوری	Z.15	/ǧomhuri/	Republik	Z15_0023.wav
+
+ایستادن	L.16	/istādan/	stehen	L16_0001.wav
+پرواز	L.16	/parvāz/	Flug	L16_0002.wav
+پیشنهاد کردن	L.16	/pišnahād kardan/	vorschlagen	L16_0003.wav
+تاکنون	L.16	/tākonun/	bisher	L16_0004.wav
+رزرو کردن	L.16	/rezerv kardan/	reservieren	L16_0005.wav
+سبک	L.16	/sabok/	leicht	L16_0006.wav
+عده 	L.16	/ʻedde/	Menge, eine Gruppe von Menschen	L16_0007.wav
+عوض شدن	L.16	/ʻavaz šodan/	sich ändern	L16_0008.wav
+فرودگاه	L.16	/forudgāh/	Flughafen	L16_0009.wav
+قبل از	L.16	/qabl az/	vor, bevor	L16_0010.wav
+قرار گذاشتن	L.16	/qarār gozāštan/	sich verabreden	L16_0011.wav
+گیشه	L.16	/giše/	Schalter	L16_0012.wav
+مقابل	L.16	/moqābel/	gegenüber	L16_0013.wav
+ملاقات کردن	L.16	/molāqāt kardan/	sich treffen	L16_0014.wav
+نظر	L.16	/nazar/	Meinung	L16_0015.wav
+وارد شدن	L.16	/vāred šodan/	betreten, ankommen, erreichen	L16_0016.wav
+وقتی که	L.16	/vaqti ke/	als	L16_0017.wav
+هنگامی که	L.16	/hengāmi ke/	als	L16_0018.wav
+پیاده‌روی کردن	L.16	/piyāde ravi kardan/	spazieren gehen	L16_0019.wav
+تمام شدن	L.16	/tamām šodan/	zu Ende gehen, beendet werden	L16_0020.wav
+
+چگونه	G.16	/čegune/	wie	G16_0001.wav
+صامت	Z.16	/sāmet/	stumm (Film)	Z16_0001.wav
+به معرض نمایش گذاشتن	Z.16	/be maʻraz-e namāyeš gozāštan/	präsentieren, zeigen	Z16_0002.wav
+اجتماعی	Z.16	/eǧtemāʻi/	gesellschaftlich, sozial	Z16_0003.wav
+ارمنی	Z.16	/armani/	armenisch	Z16_0004.wav
+بازیگر	Z.16	/bāzigar/	Schauspieler, Darsteller	Z16_0005.wav
+بسته شدن	Z.16	/baste šodan/	geschloßen werden	Z16_0006.wav
+بلند	Z.16	/boland/	lang, hoch	Z16_0007.wav
+به سر بردن	Z.16	/be sar bordan/	sich befinden	Z16_0008.wav
+به نمایش گذاشتن	Z.16	/be namāyeš gozāštan/	zeigen	Z16_0009.wav
+جایزه	Z.16	/ǧāyeze/	Preis, Auszeichnung	Z16_0010.wav
+جشنواره	Z.16	/ǧašnvāre/	Festival	Z16_0011.wav
+جهانی	Z.16	/ǧahāni/	international, welt-	Z16_0012.wav
+خرس	Z.16	/ḫers/	Bär	Z16_0013.wav
+دریافت کردن	Z.16	/daryāft kardan/	bekommen, erhalten	Z16_0014.wav
+رکود	Z.16	/rokud/	Stillstand	Z16_0015.wav
+طلایی	Z.16	/talāyi/	golden	Z16_0016.wav
+عوام‌پسند	Z.16	/ʻavām pasand/	volkstümlich, populär	Z16_0017.wav
+فیلم‌ساز	Z.16	/filmsāz/	Filmregisseur	Z16_0018.wav
+فیلم سینمایی	Z.16	/film-e sinamāi/	Kinofilm	Z16_0019.wav
+کن	Z.16	/kan/	Cannes	Z16_0020.wav
+گنج	Z.16	/ganǧ/	Schatz	Z16_0021.wav
+لر	Z.16	/lor/	Lor	Z16_0022.wav
+میسر	Z.16	/moyassar/	möglich, durchführbar, erreichbar	Z16_0023.wav
+ناطق	Z.16	/nāteq/	Tonfilm	Z16_0024.wav
+نخستین	Z.16	/naḫostin/	erste	Z16_0025.wav
+مسائل	Z.16	/masā’el/	Fragen, Themen	Z16_0026.wav
+نمایش	Z.16	/namāyeš/	Theaterstück, Vorstellung, Darstellung 	Z16_0027.wav
+رنج بردن	Z.16	/ranǧ bordan/	leiden, sich mühen	Z16_0028.wav
+
+خسته	L.17	/ḫaste/	müde	L17_0001.wav
+امسال	L.17	/emsāl/	dieses Jahr,das laufende Jahr	L17_0002.wav
+باران	L.17	/bārān/	Regen	L17_0003.wav
+بالاخره	L.17	/belʼaḫare/	schließlich	L17_0004.wav
+بامداد	L.17	/bāmdād/	Morgen	L17_0005.wav
+به هر حال	L.17	/be har hāl/	jedenfalls, auf jeden Fall	L17_0006.wav
+بهار	L.17	/bahār/	Frühling	L17_0007.wav
+بهاری	L.17	/bahāri/	frühlingshaft	L17_0008.wav
+چمدان	L.17	/čamedān/	Koffer	L17_0009.wav
+حدود	L.17	/hodud/	etwa, gegen	L17_0010.wav
+حرف زدن	L.17	/harf zadan/	sprechen, reden	L17_0011.wav
+خسته کننده	L.17	/ḫaste  konande/	anstrengend	L17_0012.wav
+درباره	L.17	/darbāre/	über	L17_0013.wav
+دریای خزر	L.17	/daryā-ye ḫazar/	das kaspische Meer	L17_0014.wav
+دیشب	L.17	/dišab/	letzte Nacht, gestern Abend	L17_0015.wav
+رأس	L.17	/ra’s/	Kopf, um	L17_0016.wav
+سپری کردن	L.17	/separi kardan/	verbringen	L17_0017.wav
+سفر کردن	L.17	/safar kardan/	reisen	L17_0018.wav
+صف	L.17	/saf/	Schlange, Reihe	L17_0019.wav
+(در) صف ایستادن	L.17	/saf istādan/	Schlange stehen	L17_0020.wav
+هواپیما	L.17	/havāpeymā/	Flugzeug	L17_0021.wav
+بدرقه کردن	L.17	/badraqe kardan/	begleiten	L17_0022.wav
+حرکت کردن	L.17	/harekat kardan/	abfahren, sich bewegen	L17_0023.wav
+زیرا	L.17	/zirā/	weil	L17_0024.wav
+خوش گذشتن	L.17	/ḫoš gozaštan/	Spaß haben, sich amüsieren	L17_0025.wav
+از بس	L.17	/az bas/	vor lauter	L17_0026.wav
+برف	L.17	/barf/	Schnee	L17_0027.wav
+
+سوختن	G.17	/suḫtan/	brennen, sich brennen	G17_0001.wav
+راندن	G.17	/rāndan/	fahren, führen	G17_0002.wav
+ارتفاع	Z.17	/ertefā’/	Höhe	Z17_0001.wav
+امپراتوری	Z.17	/emperāturi/	Grossreich	Z17_0002.wav
+باستانی	Z.17	/bāstāni/	Altertum, alt, antik	Z17_0003.wav
+برکندن	Z.17	/bar kandan/	trennen, abreissen	Z17_0004.wav
+بلبل	Z.17	/bolbol/	Nachtigall	Z17_0005.wav
+بی‌مثال	Z.17	/bimesāl/	beispiellos, eizigartig	Z17_0006.wav
+تفرج	Z.17	/tafarroǧ/	Ausflug, Spaziergang	Z17_0007.wav
+جستن	Z.17	/ǧostan/	suchen, auffindig machen	Z17_0008.wav
+کیلومتر	Z.17	/kilu metr/	Kilometer	Z17_0009.wav
+خاصه	Z.17	/ḫāsse/	vor allem	Z17_0010.wav
+خداوند	Z.17	/ḫodāvand/	Gott	Z17_0011.wav
+خداوندا	Z.17	/ḫodāvandā/	oh Gott	Z17_0012.wav
+خوشا 	Z.17	/ḫošā/	wie schön ist! 	Z17_0013.wav
+دامنه	Z.17	/dāmane/	Vorgebirge, Fuß (eines Berges)	Z17_0014.wav
+زوال 	Z.17	/zavāl/	Vernichtung	Z17_0016.wav
+سرودن	Z.17	/sorudan/	dichten	Z17_0017.wav
+شاعر	Z.17	/šāʻer/	Dichter	Z17_0019.wav
+فاصله	Z.17	/fāsele/	Distanz, Abstand	Z17_0020.wav
+متر	Z.17	/metr/	Meter	Z17_0021.wav
+مسافر	Z.17	/mosāfer/	Reisender	Z17_0022.wav
+معتدل	Z.17	/moʻtadel/	mäßig, gemäßigt	Z17_0023.wav
+وطن	Z.17	/vatan/	Heimat	Z17_0024.wav
+یافتن/ یاب	Z.17	/yāftan/	finden	Z17_0025.wav
+
+لیسانس 	L.18	/lisāns/	B.A. (Studiengang)	L18_0001.wav
+ادامه	L.18	/edāme/	Fortsetzung	L18_0002.wav
+ادامه دادن	L.18	/edāme dādan/	fortsetzen	L18_0003.wav
+آزمون	L.18	/āzmun/	Prüfung	L18_0004.wav
+کنکور	L.18	/konkur/	Prüfung	L18_0005.wav
+اصلاً	L.18	/aslan/	gar nicht, überhaupt nicht	L18_0006.wav
+اغلب	L.18	/aqlab/	öfter, meistens	L18_0007.wav
+امتحان	L.18	/emtehān/	Prüfung	L18_0008.wav
+انتخاب کردن	L.18	/enteḫāb kardan/	wählen	L18_0009.wav
+آینده	L.18	/āyande/	Zukunft	L18_0010.wav
+بازگشتن	L.18	/bāzgaštan/	zurückkehren	L18_0011.wav
+بچگی	L.18	/beččegi/	Kindheit	L18_0012.wav
+به عنوان	L.18	/be onvān-e/	als	L18_0013.wav
+پزشکی	L.18	/pezeški/	Medizin	L18_0014.wav
+تحصیل 	L.18	/tahsil/	Ausbildung, Studium	L18_0015.wav
+تصمیم	L.18	/tasmim/	Entscheidung	L18_0016.wav
+حسابی	L.18	/hesābi/	richtig	L18_0017.wav
+حقوق	L.18	/hoquq/	(hier) Jura, Gehalt	L18_0018.wav
+دبیرستان	L.18	/dabirestān/	Gymnasium	L18_0019.wav
+درآمد	L.18	/darāmad/	Gehalt, Einkommen	L18_0020.wav
+در این باره	L.18	/dar in bāre/	darüber, über dies	L18_0021.wav
+در حالی که	L.18	/dar hāli ke/	während	L18_0022.wav
+درس دادن	L.18	/dars dādan/	unterrichten	L18_0023.wav
+در طول	L.18	/dar tul/	während, im Laufe 	L18_0024.wav
+شرکت کردن	L.18	/šerkat kardan/	teilnehmen	L18_0025.wav
+علاقمند شدن	L.18	/ʻalāqemand šodan/	sich interessieren für, sich mögen	L18_0026.wav
+علاقه	L.18	/ʻalāqe/	Interesse	L18_0027.wav
+علاقه داشتن	L.18	/ʻalāqe dāštan/	interessiert sein (an)	L18_0028.wav
+فروردین 	L.18	/farvardin/	der erste Monat des iranischen Kalenders	L18_0029.wav
+فوق‌لیسانس	L.18	/foqe lisāns/	M.A. (Studiengang)	L18_0030.wav
+مخالفت کردن	L.18	/moḫālefat kardan/	widerstehen, widersetzen 	L18_0031.wav
+مهمانی	L.18	/mehmāni/	Gastmahl, Party	L18_0032.wav
+میهمانی 	L.18	/mihmāni/	Gastmahl, Party	L18_0033.wav
+لباس پوشیدن	L.18	/lebās pušidan/	anziehen	L18_0034.wav
+کارشناسی ارشد	L.18	/kāršenāsi-ye aršad/	Magister	L18_0035.wav
+معلمی	L.18	/moʻallemi/	Lehrtätigkeit	L18_0036.wav
+
+بینا	G.18	/binā/	sehend, scharfsichtig	G18_0001.wav
+پاک	G.18	/pāk/	sauber, rein	G18_0002.wav
+پسندیدن	G.18	/pasandidan/	gefallen, gutheißen	G18_0003.wav
+از راه رسیدن	G.18	/az rāh residan/	ankommen	G18_0004.wav
+زاییدن	G.18	/zāyidan/	gebären	G18_0005.wav
+شایستن	G.18	/šāyestan/	geziemen, passen	G18_0006.wav
+با آن که	G.18	/bā ān ke/	obwohl	G18_0007.wav
+خشک	Z.18	/ḫošk/	trocken	Z18_0001.wav
+آب و هوا	Z.18	/āb-o havā/	Wetter, Klima	Z18_0002.wav
+بازدید	Z.18	/bāzdid/	Besuch	Z18_0003.wav
+پهناور	Z.18	/pahnāvar/	groß, weit	Z18_0004.wav
+دارا	Z.18	/dārā/	besitzend, vermögend	Z18_0005.wav
+دارا بودن	Z.18	/dārā budan/	besitzen	Z18_0006.wav
+دشت	Z.18	/dašt/	Steppe	Z18_0007.wav
+دما	Z.18	/damā/	Temperatur	Z18_0008.wav
+رشته‌کوه	Z.18	/rešte kuh/	Bergkette	Z18_0009.wav
+ساحل	Z.18	/sāhel/	Küste	Z18_0010.wav
+مناطق ساحلی	Z.18	/manāteqe sāheli/	küstennahe Regionen	Z18_0011.wav
+سانتیگراد	Z.18	/sāntigerād/	Zentigrad, Grad Celsius	Z18_0012.wav
+سواحل	Z.18	/savāhel/	Küsten	Z18_0013.wav
+شرایط	Z.18	/šarāyet/	Situation, Voraussetzung	Z18_0014.wav
+گستردگی	Z.18	/gostardegi/	Größe, Ausdehnung	Z18_0015.wav
+متنوع	Z.18	/motanave’/	abwechselnd, vielfältig	Z18_0016.wav
+مطبوع	Z.18	/matbuʻ/	angenehm	Z18_0017.wav
+ملایم	Z.18	/molāyem/	gemäßigt, mild, sanft	Z18_0018.wav
+همزمان	Z.18	/hamzamān/	gleichzeitig	Z18_0019.wav
+
+اثر	L.19	/asar/	Werk, Wirkung, Spur	L19_0001.wav
+ادبی	L.19	/adabi/	literarisch	L19_0002.wav
+استقبال کردن	L.19	/esteqbāl kardan/	begrüssen, akzeptieren	L19_0003.wav
+آموزش	L.19	/āmuzeš/	Lehren	L19_0004.wav
+انتها	L.19	/entehā/	Ende	L19_0005.wav
+اوایل	L.19	/avāyel/	anfangs, Anfang	L19_0006.wav
+بازدید کردن	L.19	/bāzdid kardan/	besuchen	L19_0007.wav
+برگزار شدن	L.19	/bargozār šodan/	stattfinden	L19_0008.wav
+به  تازگی	L.19	/be tāzegi/	neulich, in letzter Zeit, vor Kurzem	L19_0009.wav
+به دنبال ... بودن	L.19	/be donbāl-e … budan/	nach etw. suchen	L19_0010.wav
+به شمار آمدن	L.19	/be šomār āmadan/	gezählt werden, gelten	L19_0011.wav
+بین‌المللی	L.19	/beynolmelali/	international	L19_0012.wav
+پول	L.19	/pul/	Geld	L19_0013.wav
+پیشنهاد	L.19	/pišnahād/	Vorschlag	L19_0014.wav
+جلو	L.19	/ǧelo/	vorne	L19_0015.wav
+چاپ شدن	L.19	/čāp šodan/	gedruckt werden	L19_0016.wav
+حالا	L.19	/hālā/	nun	L19_0017.wav
+حضور داشتن	L.19	/hozur dāštan/	präsent sein, vertreten 	L19_0018.wav
+خاص	L.19	/ḫās/	besonders, bestimmt	L19_0019.wav
+داخلی	L.19	/dāḫeli/	heimisch	L19_0020.wav
+شاهنامه	L.19	/šāhnāme/	Königsbuch	L19_0021.wav
+صندوق	L.19	/sanduq/	Kasse	L19_0022.wav
+غرفه	L.19	/qorfe/	Pavillion	L19_0023.wav
+فرصت	L.19	/forsat/	Gelegenheit	L19_0024.wav
+فرهنگ	L.19	/farhang/	Kultur, Lexikon	L19_0025.wav
+کافه	L.19	/kāfe/	Cafe	L19_0026.wav
+کتاب کودک	L.19	/ketāb-e kudak/	Kinderbuch	L19_0027.wav
+کودک	L.19	/kudak/	Kind	L19_0028.wav
+کوه	L.19	/kuh/	Berg	L19_0029.wav
+محل	L.19	/mahall/	Ort	L19_0030.wav
+منتشر شدن	L.19	/montašer šodan/	erscheinen, gedruckt werden 	L19_0031.wav
+منتشر کردن	L.19	/montašer kardan/	herausgeben	L19_0032.wav
+ناشر	L.19	/nāšer/	Verlag, Verleger	L19_0033.wav
+نسخه	L.19	/nosḫe/	Version, Exemplar	L19_0034.wav
+نمایشگاه	L.19	/namāyešgāh/	Ausstellung, Messe	L19_0035.wav
+واژه‌نامه	L.19	/vāženāme/	Wörterbuch	L19_0036.wav
+لغت‌نامه	L.19	/loqat nāme/	Wörterbuch	L19_0037.wav
+
+آمرزیدن/ آمرز	G.19	/āmorzidan/	vergeben, segnen	G19_0001.wav
+آموختن/ آموز	G.19	/āmuḫtan/	lernen, lehren	G19_0002.wav
+خطرناک	G.19	/ḫatarnāk/	gefährlich	G19_0003.wav
+چین	G.19	/čin/	China	G19_0004.wav
+سخن گفتن	G.19	/soḫan goftan/	sprechen	G19_0005.wav
+آراستن	Z.19	/ārāstan/	schmücken	Z19_0001.wav
+اندر	Z.19	/andar/	in	Z19_0002.wav
+باستان	Z.19	/bāstān/	antik, alt	Z19_0003.wav
+بخرد	Z.19	/beḫrad/	weise	Z19_0004.wav
+بسی	Z.19	/basi/	so viel, viel	Z19_0005.wav
+بوم	Z.19	/bum/	Land	Z19_0006.wav
+به	Z.19	/beh/	besser	Z19_0007.wav
+بیت	Z.19	/beyt/	Vers	Z19_0008.wav
+بیش (از)	Z.19	/biš/	mehr (als)	Z19_0009.wav
+پایدار	Z.19	/pāydār/	ewig	Z19_0010.wav
+پلنگ	Z.19	/palang/	Leopard	Z19_0011.wav
+خرد	Z.19	/ḫerad/	Weisheit	Z19_0012.wav
+داستان	Z.19	/dāstān/	Geschichte	Z19_0013.wav
+دراز	Z.19	/derāz/	lang	Z19_0014.wav
+دریغ	Z.19	/dariq/	schade	Z19_0015.wav
+سردار	Z.19	/sardār/	Kommandeur	Z19_0016.wav
+شیر	Z.19	/šir/	Löwe, Milch, Wasserhahn	Z19_0017.wav
+صرف کردن	Z.19	/sarf kardan/	verwenden, verbringen	Z19_0018.wav
+عجم	Z.19	/ʻaǧam/	Perser	Z19_0019.wav
+عمر	Z.19	/‘omr/	Leben	Z19_0020.wav
+غارت	Z.19	/qārat/	Plünderung	Z19_0021.wav
+فرجام	Z.19	/farǧām/	Ende, Schicksal	Z19_0022.wav
+فلک	Z.19	/falak/	Himmel, Welt 	Z19_0023.wav
+قهرمان	Z.19	/qahremān/	Held	Z19_0024.wav
+کنام	Z.19	/konām/	Haus	Z19_0025.wav
+میلادی	Z.19	/milādi/	christlich (Zeitrechnung)	Z19_0026.wav
+ویران کردن	Z.19	/virān kardan/	verwüsten	Z19_0027.wav
+یادگار	Z.19	/yādgār/	Erinnerung, Andenken	Z19_0028.wav
+بخردی	Z.19	/beḫradi/	du bist weise	Z19_0029.wav
+حمله	Z.19	/hamle/	Angriff, Überfall 	Z19_0030.wav
+اعراب 	Z.19	/aʻrāb/	Araber	Z19_0031.wav
+
+ارائه دادن	L.20	/erāʼe dādan/	vorlegen	L20_0001.wav
+اگر	L.20	/agar/	wenn	L20_0002.wav
+آموزشگاه	L.20	/āmuzešgāh/	Sprachinstitut, Lehrinstitut	L20_0003.wav
+اواخر	L.20	/avāḫer/	Ende	L20_0004.wav
+پرکردن	L.20	/por kardan/	füllen, ausfüllen	L20_0005.wav
+تیر	L.20	/tir/	der 4. Monat des iranischen Kalenders	L20_0006.wav
+ثبت‌نام	L.20	/sabt-e nām/	Anmeldung	L20_0007.wav
+حاضر شدن	L.20	/hāzer šodan/	fertig werden	L20_0008.wav
+درخواست	L.20	/darḫāst/	Antrag	L20_0009.wav
+درخواست دادن	L.20	/darḫāst dādan/	beantragen	L20_0010.wav
+دوره	L.20	/dore/	Kurs, Epoche	L20_0011.wav
+این روزها	L.20	/in ruzhā/	heutzutage	L20_0012.wav
+سفارت 	L.20	/sefārat/	Botschaft	L20_0013.wav
+صادر کردن	L.20	/sāder kardan/	ausstellen, exportieren	L20_0014.wav
+فرم	L.20	/form/	Formular	L20_0015.wav
+فشرده	L.20	/fešorde/	intensiv, zusammengepresst	L20_0016.wav
+قصد	L.20	/qasd/	Absicht	L20_0017.wav
+قصد داشتن	L.20	/qasd dāštan/	beabsichtigen, etw. vorhaben	L20_0018.wav
+کاشکی 	L.20	/kāški/	wenn doch	L20_0019.wav
+گذرنامه	L.20	/gozarnāme/	Reisepass	L20_0020.wav
+گواهی	L.20	/govāhi/	Bestätigung, Bescheinigung	L20_0021.wav
+مدت	L.20	/moddat/	Zeit, Frist, Dauer	L20_0022.wav
+به موقع	L.20	/be moqeʻ/	pünktlich	L20_0023.wav
+نشان دادن	L.20	/nešān dādan/	vorzeigen, zeigen	L20_0024.wav
+نگرانی	L.20	/negarāni/	Sorge	L20_0025.wav
+وگرنه	L.20	/vagarne/	sonst	L20_0026.wav
+ویزا 	L.20	/vizā/	Visum	L20_0027.wav
+همچنین	L.20	/hamčenin/	ebenfalls, außerdem	L20_0028.wav
+به همراه	L.20	/be hamrāh/	zusammen	L20_0029.wav
+یاد گرفتن	L.20	/yād gereftan/	lernen	L20_0030.wav
+چه مدت	L.20	/če moddat/	wie lange	L20_0031.wav
+شهریور	L.20	/šahrivar/	der 6. Monat des iranischen Kalenders	L20_0032.wav
+مهر	L.20	/mehr/	der 6. Monat des iranischen Kalenders	L20_0033.wav
+
+خواباندن	Z.20	/ḫābāndan/	hinlegen (trans.), zu Bett bringen  	Z20_0001.wav
+ابوعلی سینا	Z.20	/abu ali sinā/	Avicenna	Z20_0002.wav
+آرامگاه	Z.20	/ārāmgāh/	Grab, Mausoleum, Ruhestätte	Z20_0003.wav
+آریدش	Z.20	/āridaš/		Z20_0004.wav
+از جمله	Z.20	/az ǧomle/	darunter	Z20_0005.wav
+به امید آن که	Z.20	/be omid-e ān ke/	mit der Hoffnung, dass 	Z20_0006.wav
+انتخاب شدن	Z.20	/enteḫāb šodan/	gewählt werden	Z20_0007.wav
+بانگ کردن	Z.20	/bāng kardan, zadan/	rufen, sagen	Z20_0008.wav
+بخارا	Z.20	/boḫārā/	eine Stadt im heutigen Tadschikistan	Z20_0009.wav
+برخاستن	Z.20	/barḫāstan/	aufstehen	Z20_0010.wav
+بستن	Z.20	/bastan/	binden, anbinden	Z20_0011.wav
+بیمار	Z.20	/bimār/	Patient, krank	Z20_0012.wav
+بیماری	Z.20	/bimāri/	Krankheit	Z20_0013.wav
+پزشک	Z.20	/pezešk/	Arzt	Z20_0014.wav
+پهلو	Z.20	/pahlu/	neben, Seite	Z20_0015.wav
+توسط	Z.20	/tavassot/	durch, von	Z20_0016.wav
+چنان	Z.20	/čenān/	so	Z20_0017.wav
+حکایت	Z.20	/hekāyat/	Erzählung, Geschichte	Z20_0018.wav
+خفتن	Z.20	/ḫoftan/	schlafen, sich legen	Z20_0019.wav
+خوردنی	Z.20	/ḫordani/	Essen, Essbares	Z20_0020.wav
+خیر	Z.20	/ḫeyr/	Wohl, gütig, nein	Z20_0021.wav
+دانشمند	Z.20	/dānešmand/	Wissenschaftler	Z20_0022.wav
+درجه	Z.20	/daraǧe/	Grad, Mass	Z20_0023.wav
+درگذشتن	Z.20	/dargozaštan/	sterben	Z20_0024.wav
+درگذشت	Z.20	/dargozašt/	Tod	Z20_0025.wav
+درمان	Z.20	/darmān/	Heilung, Behandlung	Z20_0026.wav
+درمان کردن	Z.20	/darmān kardan/	behandeln	Z20_0027.wav
+دویدن	Z.20	/davidan/	rennen, laufen	Z20_0028.wav
+زمینه	Z.20	/zamine/	Gebiet	Z20_0029.wav
+سبب	Z.20	/sabab/	Anlaß, Ursache, Grund	Z20_0030.wav
+سخن	Z.20	/soḫan/	Wort	Z20_0031.wav
+سرای	Z.20	/sarāy/	Heim, Haus	Z20_0032.wav
+سرشناس	Z.20	/saršenās/	berühmt	Z20_0033.wav
+شادی کردن	Z.20	/šādi kardan/	sich freuen	Z20_0034.wav
+شاه	Z.20	/šāh/	König	Z20_0035.wav
+شاهزاده	Z.20	/šāhzāde/	Prinz	Z20_0036.wav
+شدید	Z.20	/šadid/	schwer, heftig	Z20_0037.wav
+شفا	Z.20	/šafā/	Heilung	Z20_0038.wav
+عدو	Z.20	/ʻadu/	Feind	Z20_0039.wav
+علف	Z.20	/ʻalaf/	Gras, Futter	Z20_0040.wav
+فربه	Z.20	/farbe/	dick, fett	Z20_0041.wav
+فلسفه	Z.20	/falsafe/	Philosophie	Z20_0042.wav
+قانون	Z.20	/qānun/	Gesetz, Kanon	Z20_0043.wav
+قصاب	Z.20	/qassāb/	Metzger	Z20_0044.wav
+کارد	Z.20	/kārd/	Messer	Z20_0045.wav
+کشتن	Z.20	/koštan/	schlachten, töten, umbringen	Z20_0046.wav
+گاو	Z.20	/gāv/	Kuh	Z20_0047.wav
+گشودن	Z.20	/gošudan/	öffnen, entbinden	Z20_0048.wav
+گوشت	Z.20	/gušt/	Fleisch	Z20_0049.wav
+لاغر	Z.20	/lāqar/	dünn	Z20_0050.wav
+مالیخولیا	Z.20	/māliḫuliyā/	Melancholie, Schwermut	Z20_0051.wav
+مالیدن	Z.20	/mālidan/	schleifen, wetzen, streichen	Z20_0052.wav
+مبتلا شدن	Z.20	/mobtalā šodan/	erkranken, sich anstecken	Z20_0053.wav
+مژده دادن	Z.20	/možde dādan/	verkünden	Z20_0054.wav
+مقاله	Z.20	/maqāle/	Artikel, Kapitel	Z20_0055.wav
+نشاید	Z.20	/našāyad/	man kann nicht, es ist nicht machbar	Z20_0056.wav
+نیکو	Z.20	/niku/	gut	Z20_0057.wav
+وى	Z.20	/vey/	er, sie	Z20_0058.wav
+همچون	Z.20	/hamčun/	wie	Z20_0059.wav
+همدان	Z.20	/hamedān/	eine Stadt im Zentrum Iran	Z20_0060.wav
+یعنی	Z.20	/yani/	das heißt	Z20_0061.wav
+امید	Z.20	/omid/	Hoffnung	Z20_0062.wav
+از دنیا رفتن	Z.20	/az donyā raftan/ 	sterben	Z20_0063.wav
+
+احتمالاً 	L.21	/ehtemālan/	wahrscheinlich, möglicherweise	L21_0001.wav
+ارتباط داشتن	L.21	/ertebāt dāštan/	betreffen, Bezug haben	L21_0002.wav
+ازدواج کردن	L.21	/ezdevāǧ kardan/	heiraten	L21_0003.wav
+باز کردن	L.21	/bāz kardan/	öffnen, eröffnen	L21_0004.wav
+بچه	L.21	/bačče/	Kind	L21_0005.wav
+بسیاری از	L.21	/besyāri az/	viele von	L21_0006.wav
+بعضی 	L.21	/ba’zi/	einige, manche	L21_0007.wav
+پولدار 	L.21	/puldār/	reich	L21_0008.wav
+تا به حال	L.21	/tā be hāl/	bis jetzt	L21_0009.wav
+تحصیلات	L.21	/tahsilāt/	Studium	L21_0010.wav
+تحصیل کرده	L.21	/tahsil karde/	Ausgebildete	L21_0011.wav
+تعداد	L.21	/teʻdād/	Zahl	L21_0012.wav
+حجره	L.21	/hoǧre/	Geschäft im Bazar	L21_0013.wav
+خدمت سربازی	L.21	/ḫedmat-e sarbāzi/	Militärdienst	L21_0014.wav
+خواستگار	L.21	/ḫāstgār/	Brautwerber	L21_0015.wav
+دیپلم	L.21	/diplom/	Abitur	L21_0016.wav
+رشته تحصیلی	L.21	/rešte-ye tahsili/	Fachrichtung	L21_0017.wav
+صحبت کردن	L.21	/sohbat kardan/	sprechen, reden	L21_0018.wav
+فرق کردن	L.21	/farq kardan/	sich unterscheiden	L21_0019.wav
+به فکرِ چیزی بودن	L.21	/be fekr-e čizi budan/	an etw. denken	L21_0020.wav
+قبول شدن	L.21	/qabul šodan/	aufgenommen werden, (Prüfung) bestehen	L21_0021.wav
+کسانی	L.21	/kesāni/	einige	L21_0022.wav
+به عنوان مثال	L.21	/be ʻonvān-e mesāl/	zum Beispiel, beispielsweise	L21_0023.wav
+مشغول شدن	L.21	/mašqul šodan/	sich mit etw. beschäftigen, befasst sein mit	L21_0024.wav
+معتقد بودن	L.21	/moʻtaqed budan/	meinen, glauben	L21_0025.wav
+مناسب 	L.21	/monāseb/	passend, geeignet	L21_0026.wav
+وضع	L.21	/vazʻ/	Lage, Situation	L21_0027.wav
+واردِ دانشگاه شدن	L.21	/vāred-e dānešgāh šodan	zur Universität gehen, studieren	L21_0028.wav
+درآوردن	L.21	/dar āvardan/	herausnehmen	L21_0029.wav
+پول درآوردن	L.21	/pul dar āvardan/ 	Geld verdienen	L21_0030.wav
+
+حیله	G.21	/hile/	List, Betrug	G21_0001.wav
+خشم	G.21	/ḫašm/	Ärger, Wut	G21_0002.wav
+خطر	G.21	/ḫatar/	Gefahr	G21_0003.wav
+داد	G.21	/dād/	Gerechtigkeit	G21_0004.wav
+ستم	G.21	/setam/	Unrecht, Gewalt	G21_0005.wav
+کاردانی	Z.21	/kārdāni/	zweijähriges Studium nach dem Abitur	Z21_0001.wav
+آزاد	Z.21	/āzād/	frei	Z21_0002.wav
+آموزش عالی	Z.21	/āmuzeš-e āli/	Hochschulbildung	Z21_0003.wav
+پذیرفته شدن	Z.21	/pazirofte šodan/	aufgenommen werden	Z21_0004.wav
+پرداختن	Z.21	/pardāḫtan/	bezahlen	Z21_0005.wav
+تاسیس شدن	Z.21	/ta’sis šodan/	gegründet werden	Z21_0006.wav
+دعا	Z.21	/doʻā/	Gebet	Z21_0007.wav
+دولت	Z.21	/dolat/	Regierung	Z21_0008.wav
+دولتی	Z.21	/dolati/	öffentlich, staatlich	Z21_0009.wav
+دیپلمه	Z.21	/diplome/	Abiturient	Z21_0010.wav
+راحت 	Z.21	/rāhat/	leicht	Z21_0011.wav
+رایگان	Z.21	/rāygān/	kostenlos	Z21_0012.wav
+سراسری	Z.21	/sarāsari/	landesweit	Z21_0013.wav
+شعبه	Z.21	/šoʻbe/	Filiale, Zweigstelle	Z21_0014.wav
+شهریه	Z.21	/šahriye/	Studiengebühren, Gebühren	Z21_0015.wav
+معتبر	Z.21	/moʻtabar/	renommiert	Z21_0016.wav
+موسسه	Z.21	/mo’assese/	Institut	Z21_0017.wav
+نوع	Z.21	/noʻ/	Art	Z21_0018.wav
+کارشناسی	Z.21  	/kāršenasi/	Bachelor	Z21_0019.wav
+
+اجرا کردن	L.22	/eǧrā šodan/	aufführen, durchführen	L22_0001.wav
+احداث کردن	L.22	/ehdās kardan/	bauen	L22_0002.wav
+آزادی	L.22	/āzādi/	Freiheit	L22_0003.wav
+امتداد داشتن	L.22	/emtedād dāštan/	verlaufen	L22_0004.wav
+برج	L.22	/borǧ/	Turm	L22_0005.wav
+بزرگراه	L.22	/bozorgrāh/	Autobahn	L22_0006.wav
+بنا	L.22	/banā/	Gebäude, Bau	L22_0007.wav
+بنا کردن	L.22	/banā kardan/	bauen	L22_0008.wav
+به تازگی	L.22	/be tāzegi/	vor Kurzem, in der letzten Zeit	L22_0009.wav
+تبدیل شدن	L.22	/tabdil šodan/	werden, sich wandeln (zu)	L22_0010.wav
+تغییر	L.22	/taqyir/	Änderung	L22_0011.wav
+تغییر دادن	L.22	/taqyir dādan/	ändern, abändern	L22_0012.wav
+تقریباً	L.22	/taqriban/	fast, ungefähr	L22_0013.wav
+جنوب	L.22	/ǧonub/	Süden	L22_0014.wav
+خدا را شکر!	L.22	/ḫodā rā šokr/	Gott sei Dank	L22_0015.wav
+به دنبال کسی رفتن	L.22	/be donbāl-e kasi raftan/	jemanden abholen	L22_0016.wav
+رانندگی	L.22	/rānandegi/	Autofahren	L22_0017.wav
+رانندگی کردن	L.22	/rānandegi kardan/	fahren	L22_0018.wav
+رفته‌‌رفته	L.22	/rafte rafte/	allmählich, Schritt für Schritt	L22_0019.wav
+ساختمان	L.22	/sāḫtemān/	Gebäude	L22_0020.wav
+ساختن	L.22	/sāḫtan/	bilden, bauen, (Filme) drehen	L22_0021.wav
+سرگرمی	L.22	/sargarmi/	Hobby	L22_0022.wav
+سنتی	L.22	/sonnati/	traditionell	L22_0023.wav
+شرق	L.22	/šarq/	Osten	L22_0024.wav
+شناخته شدن	L.22	/šenāḫte šodan/	bezeichnet werden	L22_0025.wav
+شناخته‌‌شده	L.22	/šenāḫte šode/	bekannt	L22_0026.wav
+قسمت	L.22	/qesmat/	Teil	L22_0027.wav
+قلیان	L.22	/qelyān/	Wasserpfeife	L22_0028.wav
+‌قلیان کشیدن	L.22	/qelyān kešidan/	Wasserpfeife rauchen	L22_0029.wav
+گشت زدن	L.22	/gašt zadan/	Rundfahrt, bummeln	L22_0030.wav
+ماشین 	L.22	/māšin/	Auto, Maschine	L22_0031.wav
+متصل کردن	L.22	/mottasel kardan/	verbinden	L22_0032.wav
+محسوب شدن	L.22	/mahsub šodan/	bezeichnet/ gezählt werden	L22_0033.wav
+موسیقی	L.22	/musiqi/	Musik	L22_0034.wav
+نام داشتن	L.22	/nām dāštan/	genannt werden	L22_0035.wav
+نامیدن	L.22	/nāmidan/	nennen	L22_0036.wav
+نماد	L.22	/namād/	Wahrzeichen, Symbol	L22_0037.wav
+سیگار کشیدن	L.22	/sigār kešidan/	rauchen	L22_0038.wav
+
+باز	G.22	/bāz/	wieder, abermals	G22_0001.wav
+استفاده کردن	Z.22	/estefāde kardan/	benutzen	Z22_0001.wav
+اعضا	Z.22	/aʻzā/	Mitglieder	Z22_0002.wav
+البته	Z.22	/albate/	natürlich	Z22_0003.wav
+پیکان	Z.22	/peykān/	Pfeil, Iran. Automarke	Z22_0004.wav
+ثروتمند	Z.22	/servatmand/	reich	Z22_0005.wav
+خودروسازی	Z.22	/ḫodro sāzi/	Autobau	Z22_0006.wav
+دستگاه	Z.22	/dastgāh/	Gerät, Zählwort für Autos usw.	Z22_0007.wav
+به راحتی	Z.22	/be rāhati/	leicht	Z22_0008.wav
+رشد 	Z.22	/rošd/	Zuwachs, Wachstum	Z22_0009.wav
+سالانه	Z.22	/sālāne/	jährlich	Z22_0010.wav
+سلطنتی	Z.22	/saltanati/	königlich, herrscherlich	Z22_0011.wav
+سواری	Z.22	/savāri/	PKW	Z22_0012.wav
+شرکت	Z.22	/šerkat/	Firma	Z22_0013.wav
+صنعت	Z.22	/sanʻat/	Industrie	Z22_0014.wav
+کارخانه	Z.22	/kārḫāne/	Fabrik	Z22_0015.wav
+مینی‌بوس	Z.22	/minibus/	Minibus	Z22_0016.wav
+وانت	Z.22	/vānet/	Pickup	Z22_0017.wav
+وسیله	Z.22	/vasile/	Mittel	Z22_0018.wav
+‌اتومبیل	Z.22	/otomobil/	Auto	Z22_0019.wav
+
+از این بابت	L.23	/az in bābat/	dafür, darüber	L23_0001.wav
+انتظار داشتن	L.23	/entezār dāštan/	erwarten	L23_0002.wav
+به دنیا آمدن	L.23	/be donyā āmadan/	zur Welt kommen	L23_0003.wav
+پاساژ 	L.23	/pāsāž/	Passage	L23_0004.wav
+پاسخ	L.23	/pāsoḫ/	Antwort	L23_0005.wav
+پاسخ دادن	L.23	/pāsoḫ dādan/	beantworten, antworten	L23_0006.wav
+پرسیدن	L.23	/porsidan/	fragen	L23_0007.wav
+پیتزا	L.23	/pitzā/	Pizza	L23_0008.wav
+پیتزا فروشی	L.23	/pitzā foruši/	Pizzeria	L23_0009.wav
+تا حدودی	L.23	/tā hodudi/	einigermaßen	L23_0010.wav
+تصمیم گرفتن	L.23	/tasmim gereftan/	eine Entscheidung treffen	L23_0011.wav
+تصور کردن	L.23	/tasavvor kardan/	sich vorstellen	L23_0012.wav
+تولد	L.23	/tavallod/	Geburt	L23_0013.wav
+به طور جدی	L.23	/be tor-e ǧeddi/	ernsthaft	L23_0014.wav
+جشن تولد	L.23	/ǧašn-e tavallod/	Geburtstagsfeier	L23_0015.wav
+چقدر	L.23	/čeqadr/	wieviel	L23_0016.wav
+چنین	L.23	/čenin/	solche	L23_0017.wav
+تا حدودی	L.23	/tā hodudi/	einigermaßen	L23_0018.wav
+خواستگاری کردن	L.23	/ḫāstgāri kardan/	jmden um seine Hand bitten	L23_0019.wav
+در صورت	L.23	/dar surat-e/	im Fall, falls	L23_0020.wav
+راجع به 	L.23	/rāǧe be/	über	L23_0021.wav
+سالگرد	L.23	/sālgard/	Jahrestag	L23_0022.wav
+سالگردِ تولد	L.23	/sālgard-e tavallod/	Geburtstag	L23_0023.wav
+سؤال	L.23	/so’āl/	Frage	L23_0024.wav
+سوال کردن	L.23	/soʼāl kardan/	fragen	L23_0025.wav
+صرف‌نظر ‌کردن	L.23	/sarf-e nazar kardan/	verzichten	L23_0026.wav
+عقل	L.23	/ʻaql/	Verstand, Weisheit	L23_0027.wav
+کم‌کم	L.23	/kam kam/	langsam, allmählich	L23_0028.wav
+لازم بودن	L.23	/lāzem budan/	genötigt sein, nötig sein	L23_0029.wav
+مالی	L.23	/māli/	finanziell	L23_0030.wav
+مبارکه!	L.23	/mobārake/	Gratulation, herzlichen Glückwunsch	L23_0031.wav
+مشخص	L.23	/mošaḫḫas/	bestimmt	L23_0032.wav
+مشورت کردن	L.23	/mašverat kardan/	beraten	L23_0033.wav
+مطرح کردن	L.23	/matrah kardan/	zur Sprache bringen, etw ansprechen	L23_0034.wav
+معروف	L.23	/maʻruf/	bekannt, berühmt	L23_0035.wav
+موضوع	L.23	/mozuʻ/	Thema, Frage	L23_0036.wav
+وضع مالی	L.23	/vazʻ-e māli/	finanzielle Lage	L23_0037.wav
+هدیه	L.23	/hedye/	Geschenk	L23_0038.wav
+هدیه دادن	L.23	/hedye dādan/	schenken	L23_0039.wav
+جواب	L.23	/ǧavab/	Antwort	L23_0040.wav
+در میان گذاشتن	L.23	/dar miyān gozāštan/	mitteilen 	L23_0041.wav
+بعد هم	L.23	/baʻd ham/	übrigens, außerdem	L23_0042.wav
+
+کو	G.23	/ku/	Stadtviertel, Straße	G23_0001.wav
+اعلام کردن	Z.23	/eʻlām kardan/	verkünden	Z23_0001.wav
+اعلام شده	Z.23	/eʻlām šode/	verkündet, veröffentlicht	Z23_0002.wav
+افزایش	Z.23	/afzāyeš/	Zunahme	Z23_0003.wav
+افزایش یافتن	Z.23	/afzāyeš yāftan/	zunehmen	Z23_0004.wav
+اقتصادی	Z.23	/eqtesādi/	wirtschaftlich	Z23_0005.wav
+آمار	Z.23	/āmār/	Statistik	Z23_0006.wav
+‌انجامیدن	Z.23	/anǧamidan/	(zu etw.) führen	Z23_0007.wav
+با این همه	Z.23	/bā in hame/	trotzdem	Z23_0008.wav
+باشکوه	Z.23	/bā šokuh/	prächtig	Z23_0009.wav
+بالا	Z.23	/bālā/	oben, über	Z23_0010.wav
+بالا رفتن	Z.23	/bālā raftan/	zunehmen	Z23_0011.wav
+برگزار کردن	Z.23	/bargozār kardan/	durchführen, organisieren	Z23_0012.wav
+به علت	Z.23	/be ʻellat/	aufgrund, wegen 	Z23_0013.wav
+پایین	Z.23	/pāyin/	unten, niedrig	Z23_0014.wav
+پرخرج	Z.23	/por ḫarǧ/	aufwendig	Z23_0015.wav
+تغییر کردن	Z.23	/taqyir kardan/	ändern, geändert werden	Z23_0016.wav
+تمام	Z.23	/tamām/	Ende, alle	Z23_0017.wav
+توافق کردن	Z.23	/tavāfoq kardan/	sich einigen	Z23_0018.wav
+جهیزیه	Z.23	/ǧahiziye/	Mitgift	Z23_0019.wav
+حداقل	Z.23	/haddaqal/	mindestens, zumindest	Z23_0020.wav
+خطبه عقد	Z.23	/ḫotbe-ye ’aqd/	Trauworte	Z23_0021.wav
+دهه	Z.23	/dahe/	Jahrzehnt	Z23_0022.wav
+رو به افزایش بودن	Z.23	/ru be afzāyeš budan/	(ständig) wachsen	Z23_0023.wav
+روحانی	Z.23	/ruhāni/	Geistlicher	Z23_0024.wav
+سایر	Z.23	/sāyer/	andere, übrige	Z23_0025.wav
+سکه	Z.23	/sekke/	(Gold) Münze	Z23_0026.wav
+سنّ ازدواج	Z.23	/senn-e ezdevāǧ/	Heiratsalter	Z23_0027.wav
+شتر	Z.23	/šotor/	Kamel	Z23_0028.wav
+شترمرغ	Z.23	/šotor morq/	Strauß	Z23_0029.wav
+صورت ‌گرفتن	Z.23	/surat gereftan/	stattfinden,geschehen	Z23_0030.wav
+طلا	Z.23	/talā/	Gold	Z23_0031.wav
+طلاق	Z.23	/talāq/	Scheidung	Z23_0032.wav
+عقدکنان	Z.23	/ʻaqd konān/	Trauung, Abschluss des Ehevertrags	Z23_0033.wav
+عقدنامه	Z.23	/ʻaqd nāme/	Ehevertrag	Z23_0034.wav
+علت	Z.23	/ʻellat/	Grund, Ursache	Z23_0035.wav
+به علت	Z.23	/be ʻellat-e/	wegen, aufgrund	Z23_0036.wav
+مثبت	Z.23	/mosbat/	positiv	Z23_0037.wav
+مشکل	Z.23	/moškel/	Problem	Z23_0038.wav
+در مقایسه با	Z.23	/dar moqāyese bā/	im Vergleich zu	Z23_0039.wav
+ممنوع	Z.23	/mamnuʻ/	verboten	Z23_0040.wav
+مهریه	Z.23	/mehriye/	Brautgeld	Z23_0041.wav
+میانگین	Z.23	/miyāngin/	durchschnittlich	Z23_0042.wav
+مقایسه	Z.23	/moqāyese/	Vergleich	Z23_0043.wav
+رسماً	Z.23	/rasman/	offiziell	Z23_0044.wav
+میزان	Z.23	/mizān/	Zahl, Menge	Z23_0045.wav
+نامه	Z.23	/nāme/	Brief	Z23_0046.wav
+
+به اتفاق	L.24	/be ettefāq-e/	mit, zusammen mit 	L24_0001.wav
+آداب و رسوم	L.24	/ādāb-o rosum/	Sitten und Bräuche	L24_0002.wav
+ازدواج 	L.24	/ezdevāǧ/	Heirat	L24_0003.wav
+اطلاع دادن	L.24	/ettelāʻ dādan/	informieren, mitteilen	L24_0004.wav
+اکنون	L.24	/aknun/	nun, jetzt	L24_0005.wav
+بر اساس	L.24	/bar asās-e/	gemäß, aufgrund	L24_0006.wav
+پدر بزرگ	L.24	/pedar bozorg/	Großvater	L24_0007.wav
+تشکر کردن	L.24	/tašākkor kardan/	sich bedanken, danken	L24_0008.wav
+تعجب کردن	L.24	/taʻaǧǧob kardan/	staunen, sich wundern	L24_0009.wav
+تعطیلات تابستانی	L.24	/taʻtilāt-e tābestāni/	Sommerferien	L24_0010.wav
+تمام کردن	L.24	/tamām kardan/	beenden	L24_0011.wav
+جزئیات	L.24	/ǧozʼiyāt/	Einzelheiten	L24_0012.wav
+جشن گرفتن	L.24	/ǧašn gereftan/	feiern	L24_0013.wav
+جعبه	L.24	/ǧaʻbe/	Schachtel	L24_0014.wav
+خواستگاری	L.24	/ḫāstgāri/	Brautwerbung, Heiratsantrag	L24_0015.wav
+در زدن	L.24	/dar zadan/	klingeln, anklopfen	L24_0016.wav
+دسته گل	L.24	/daste gol/	Blumenstrauß	L24_0017.wav
+رسمی	L.24	/rasmi/	offiziell	L24_0018.wav
+از این رو	L.24	/az in ru/	deshalb, deswegen	L24_0019.wav
+زمان	L.24	/zamān/	Zeit	L24_0020.wav
+شیرینی	L.24	/širini/	Süßigkeit, Kuchen,Torte	L24_0021.wav
+شیرینی‌‌فروشی	L.24	/širini foruši/	Konditorei	L24_0022.wav
+به صورتِ رسمی	L.24	/be surat-e rasmi/	offiziell	L24_0023.wav
+گل	L.24	/gol/	Blume	L24_0024.wav
+گل‌فروشی	L.24	/gol foruši/	Blumengeschäft	L24_0025.wav
+مادر بزرگ	L.24	/mādar bozorg/	Großmutter	L24_0026.wav
+مراسم	L.24	/marāsem/	Zeremonie, Bräuche	L24_0027.wav
+مربوط به	L.24	/marbut be/	betreffend, verbunden mit..	L24_0028.wav
+نامزدی	L.24	/nāmzadi/	Verlobung	L24_0029.wav
+به نظر رسیدن	L.24	/be nazar residan/	scheinen, es scheint...	L24_0030.wav
+نیز	L.24	/niz/	auch, ebenfalls	L24_0031.wav
+هتل	L.24	/hotel/	Hotel	L24_0032.wav
+‏L24_0033.wav
+اصرار کردن	Z.24	/esrār kardan/	beharren	L24_0034.wav
+امیدوار	Z.24	/omidvār/	hoffnungsvoll	L24_0035.wav
+ای	Z.24	/ey/	oh	L24_0036.wav
+به بارآمدن	Z.24	/be bār āmadan/	erbringen	L24_0037.wav
+برگشودن	Z.24	/bargošudan/	öffnen	L24_0038.wav
+بیستون	Z.24	/bisotun/	Bisotun (Felsmassiv mit berühmter achämenid. Inschrift)	L24_0039.wav
+پایداری	Z.24	/pāydāri/	Ausdauer, Entschloßenheit	L24_0040.wav
+تیره	Z.24	/tire/	dunkel	L24_0041.wav
+تیشه	Z.24	/tiše/	Axt	L24_0042.wav
+جدا شدن	Z.24	/ǧodā šodan/	sich trennen, sich lösen	L24_0043.wav
+جز	Z.24	/ǧoz/	außer	L24_0044.wav
+جنبیدن	Z.24	/ǧonbidan/	sich vom Fleck rühren, sich bewegen	L24_0045.wav
+چشمه	Z.24	/češme/	Brunnen, Quelle	L24_0046.wav
+خارا	Z.24	/ḫārā/	Granit	L24_0047.wav
+دراستادن	Z.24	/dar estādan/	nicht aufgeben	L24_0048.wav
+دچار گشتن	Z.24	/dočār gaštan/	treffen auf, sich verwickeln	L24_0049.wav
+دشوار	Z.24	/došvār/	schwierig	L24_0050.wav
+تیره دل	Z.24	/tire del/	gefühllos	L24_0051.wav
+دنیا	Z.24	/donyā/	Welt	L24_0052.wav
+به دنیا آمدن	Z.24	/be donyā āmadan/	zur Welt kommen	L24_0053.wav
+روزنامه‌نگار	Z.24	/ruznāme negār/	Journalist	L24_0054.wav
+ره	Z.24	/rah/	Weg	L24_0055.wav
+ز	Z.24	/ze/	aus, von	L24_0056.wav
+زورآزمای	Z.24	/zur āzmāi/	stark, kräftig	L24_0057.wav
+سخت	Z.24	/saḫt/	hart	L24_0058.wav
+سخت سر	Z.24	/saḫt sar/	hartnäckig	L24_0059.wav
+سنگ	Z.24	/sang/	Stein	L24_0060.wav
+سنگِ خارا	Z.24	/sang-e ḫārā/	Granit	L24_0061.wav
+سهل	Z.24	/sahl/	leicht, einfach	L24_0062.wav
+سیاستمدار	Z.24	/siyāsatmadār/	Politiker	L24_0063.wav
+سیل	Z.24	/seyl/	Sturm	L24_0064.wav
+سیلی	Z.24	/sili/	Ohrfeige	L24_0065.wav
+کاویدن	Z.24	/kāvidan/	ausgraben	L24_0066.wav
+کرم کردن	Z.24	/karam kardan/	jemandem einen Gefallen tun, gütig sein	L24_0067.wav
+کندن	Z.24	/kandan/	graben	L24_0068.wav
+کوشش	Z.24	/kušeš/	Bemühung	L24_0069.wav
+کوشش نمودن	Z.24	/kušeš nemudan/	sich Mühe geben, bemühen	L24_0070.wav
+کوهسار	Z.24	/kuhsār/	bergige Gegend	L24_0071.wav
+گران	Z.24	/gerān/	schwer	L24_0072.wav
+معاصر	Z.24	/moʻāser/	zeitgenössisch	L24_0073.wav
+ملقب به	Z.24	/molaqqab be/	bekannt/genannt als	L24_0074.wav
+ناگه	Z.24	/nāgah/	plötzlich, auf einmal	L24_0075.wav
+نرم	Z.24	/narm/	zart, weich	L24_0076.wav
+به نرمی	Z.24	/be narmi/	mit Freundlichkeit, freundlich	L24_0077.wav
+نیک‌بخت	Z.24	/nik baḫt/	glücklich, sellig	L24_0078.wav
+یاس	Z.24	/yas/	Hoffnungslosigkeit, Verzweiflung	L24_0079.wav
+
+لاغر شدن	G.24	/lāqar šodan/	abnehmen	G24_0001.wav
