@@ -9,8 +9,7 @@ import ch.unizh.ori.nabu.voc.ModeField;
 import ch.unizh.ori.nabu.voc.Sotm;
 import ch.unizh.ori.nabu.voc.StringColumn;
 import ch.unizh.ori.nabu.voc.Voice;
-import java.applet.Applet;
-import java.applet.AudioClip;
+import ch.unizh.ori.nabu.core.AudioClip;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -44,7 +43,6 @@ import javax.swing.text.BadLocationException;
 import javax.swing.text.JTextComponent;
 import org.apache.log4j.Logger;
 
-@SuppressWarnings("deprecation")
 public class SwingMappingRenderer extends MappingRenderer implements SwingRenderer, ActionListener {
 
 	private static final long serialVersionUID = -2678795517227194057L;
@@ -317,13 +315,14 @@ public class SwingMappingRenderer extends MappingRenderer implements SwingRender
 				toSay = (String) getQuestion().get(sc.getId());
 			}
 			String name = sotm.getUtterance(toSay, (Map) getQuestion());
+			name = name.replace(".wav", ".ogg");
 			String prefix = v.getPrefix();
 
 			if (name != null) {
 				String s = prefix + name;
 				try {
 					URL url = new URL(mf.getColumn().getVoc().getBase(), s);
-					AudioClip ac = Applet.newAudioClip(url);
+					AudioClip ac = new AudioClip(url);
 					(new Thread(new PlayThread(ac))).start();
 				} catch (MalformedURLException e) {
 				}
