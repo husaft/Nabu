@@ -1,6 +1,9 @@
 # Nabu
 A Persian vocabulary trainer
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/10780787/136793353-e83c9112-129d-4254-8b30-cecc899a3d67.png)
+
 ## Overview
 | Project         | Type  | Description           |
 | --------------- | ----- | --------------------- |
