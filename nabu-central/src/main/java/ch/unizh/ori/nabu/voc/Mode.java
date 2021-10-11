@@ -28,11 +28,8 @@ public class Mode extends DefaultDescriptable {
 		this.myShort = string;
 	}
 
-	private List<ModeField> createFromShort(String myShort) {
-		List<String> l = Utilities.split(myShort, "=");
-		if (l == null) {
-			return new ArrayList<ModeField>();
-		}
+	private List<ModeField> createFromShort(String _short) {
+		List<String> l = Utilities.split(_short, "=");
 		List<ModeField> ret = new ArrayList<ModeField>(l.size());
 		for (Iterator<String> iter = l.iterator(); iter.hasNext();) {
 			String s = iter.next();
