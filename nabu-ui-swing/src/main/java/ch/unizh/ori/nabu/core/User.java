@@ -1,8 +1,8 @@
 package ch.unizh.ori.nabu.core;
 
 import java.util.Properties;
-import javax.servlet.http.HttpSession;
-import javax.servlet.jsp.PageContext;
+import ch.unizh.ori.nabu.core.api.PageContext;
+import ch.unizh.ori.nabu.core.api.HttpSession;
 
 public class User {
 	private Properties preferences = new Properties();

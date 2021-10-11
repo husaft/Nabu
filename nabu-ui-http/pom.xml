@@ -7,7 +7,7 @@
 	<artifactId>nabu-ui-http</artifactId>
 	<name>nabu-http</name>
 	<version>1.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -24,19 +24,7 @@
 		</dependency>
 		<dependency>
 			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>nabu-voc</artifactId>
-			<version>1.0</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>nabu-ui-swing</artifactId>
-			<version>1.0</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>tuppu-ui-swing</artifactId>
+			<artifactId>nabu-central</artifactId>
 			<version>1.0</version>
 			<scope>compile</scope>
 		</dependency>
@@ -47,19 +35,21 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.0.1</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>commons-digester</groupId>
-			<artifactId>commons-digester</artifactId>
-			<version>2.1</version>
+			<groupId>javax.servlet.jsp</groupId>
+			<artifactId>jsp-api</artifactId>
+			<version>2.2</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.4</version>
+			<version>1.2.2</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.sociaal</groupId>
@@ -67,31 +57,14 @@
 			<version>1.2.2</version>
 		</dependency>
 		<dependency>
-			<groupId>javax.servlet.jsp</groupId>
-			<artifactId>javax.servlet.jsp-api</artifactId>
-			<version>2.3.3</version>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>servlet-api</artifactId>
-			<version>2.5</version>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
 			<groupId>fop</groupId>
 			<artifactId>fop</artifactId>
 			<version>0.20.5</version>
 		</dependency>
 		<dependency>
-			<groupId>org.apache.xmlgraphics</groupId>
+			<groupId>batik</groupId>
 			<artifactId>batik-svggen</artifactId>
-			<version>1.7</version>
-		</dependency>
-		<dependency>
-			<groupId>excalibur-logger</groupId>
-			<artifactId>excalibur-logger</artifactId>
-			<version>2.1</version>
+			<version>1.5</version>
 		</dependency>
 	</dependencies>
 

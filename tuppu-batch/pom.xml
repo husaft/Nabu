@@ -18,12 +18,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>nabu-core</artifactId>
-			<version>1.0</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>ch.unizh.ori.nabu</groupId>
 			<artifactId>tuppu-ui-swing</artifactId>
 			<version>1.0</version>
 			<scope>compile</scope>

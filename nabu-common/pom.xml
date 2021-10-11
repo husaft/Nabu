@@ -24,19 +24,7 @@
 		</dependency>
 		<dependency>
 			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>nabu-voc</artifactId>
-			<version>1.0</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>ch.unizh.ori.nabu</groupId>
 			<artifactId>nabu-central</artifactId>
-			<version>1.0</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>ch.unizh.ori.nabu</groupId>
-			<artifactId>nabu-text</artifactId>
 			<version>1.0</version>
 			<scope>compile</scope>
 		</dependency>
