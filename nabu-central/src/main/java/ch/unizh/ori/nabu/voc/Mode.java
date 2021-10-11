@@ -46,11 +46,13 @@ public class Mode extends DefaultDescriptable {
 			}
 			mf.setMode(this);
 			mf.setKey(s);
-			mf.setColumn(getVoc().getColumn(mf.getKey()));
+			Vocabulary voc = getVoc();
+			Column col = voc.getColumn(mf.getKey());
+			mf.setColumn(col);
 
 			if (mf.getColumn() instanceof StringColumn) {
 				StringColumn column = (StringColumn) mf.getColumn();
-				Script script = getVoc().getCentral().getScript(column.getScript());
+				Script script = voc.getCentral().getScript(column.getScript());
 				if (script != null) {
 					if ((presentationId == null || presentationId.equals("")) && script instanceof DefaultScript) {
 
