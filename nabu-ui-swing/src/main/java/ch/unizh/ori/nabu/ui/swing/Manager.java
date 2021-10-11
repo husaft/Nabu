@@ -4,6 +4,7 @@ import ch.unizh.ori.nabu.catalog.QuestionProducerDescription;
 import ch.unizh.ori.nabu.core.Central;
 import ch.unizh.ori.nabu.core.DefaultQuestionIterator;
 import ch.unizh.ori.nabu.core.QuestionIterator;
+import ch.unizh.ori.nabu.voc.FieldStream;
 import ch.unizh.ori.nabu.voc.Mode;
 import ch.unizh.ori.nabu.voc.Vocabulary;
 import java.awt.BorderLayout;
@@ -17,6 +18,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
+
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
 import javax.swing.DefaultListModel;
@@ -38,7 +41,7 @@ public class Manager extends JPanel implements ListSelectionListener {
 	private SwingCentral central;
 	private JList<Vocabulary> vocList;
 	private JList<Mode> modesList;
-	private JList<String> lessonsList;
+	private JList<FieldStream> lessonsList;
 	private JButton startButton;
 	private JButton openFolderButton = null;
 	private List<File> addedDirs;
@@ -63,7 +66,7 @@ public class Manager extends JPanel implements ListSelectionListener {
 		decorateWithBorder(sp, "Modes:");
 		p.add(sp);
 
-		this.lessonsList = new JList<String>();
+		this.lessonsList = new JList<FieldStream>();
 		this.lessonsList.setSelectionMode(2);
 
 		sp = new JScrollPane(this.lessonsList);
@@ -162,7 +165,8 @@ public class Manager extends JPanel implements ListSelectionListener {
 			Vocabulary v = this.vocList.getSelectedValue();
 			if (v != null) {
 				DefaultListModel<Mode> mListModel = new DefaultListModel<Mode>();
-				for (Iterator<String> iter = v.getModes().keySet().iterator(); iter.hasNext();) {
+				Map<String, Mode> modes = v.getModes();
+				for (Iterator<String> iter = modes.keySet().iterator(); iter.hasNext();) {
 					String m = iter.next();
 					mListModel.addElement(v.getModes().get(m));
 				}
@@ -171,9 +175,10 @@ public class Manager extends JPanel implements ListSelectionListener {
 					this.modesList.setSelectedIndex(0);
 				}
 
-				DefaultListModel<String> lListModel = new DefaultListModel<String>();
-				for (Iterator<?> iter = v.getLections().iterator(); iter.hasNext();) {
-					lListModel.addElement((String) iter.next());
+				DefaultListModel<FieldStream> lListModel = new DefaultListModel<FieldStream>();
+				List<FieldStream> lections = v.getLections();
+				for (Iterator<FieldStream> iter = lections.iterator(); iter.hasNext();) {
+					lListModel.addElement(iter.next());
 				}
 				this.lessonsList.setModel(lListModel);
 				if (lListModel.size() > 0) {
