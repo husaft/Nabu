@@ -123,7 +123,7 @@ public class Mode extends DefaultDescriptable {
 	}
 
 	private List<ModeField> getModeFields0() {
-		if (this.modeFields == null) {
+		if (this.modeFields == null && this.myShort != null && this.voc != null) {
 			setModeFields(createFromShort(this.myShort));
 		}
 		return this.modeFields;
